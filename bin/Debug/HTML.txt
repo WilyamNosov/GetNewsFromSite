@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Новости Украины от LB.ua: оперативная аналитика украинской политики, экономики, новости культуры и спорта</title>
+	<meta name="keywords" content="Соня Кошкина, Олег Базар, Дмитрий Литвин, Кость Бондаренко, Виталий Портников, Артем Шевченко, Виктор Чайка новости Украины">
+	<meta name="description" content="Последние новости Украины. Объективная, субъективная авторская аналитика украинской политики, экономики и спорта">
+		    <meta name="google-site-verification" content="Efk8A1l-zGcKAdY7XlfA4qaTqb2Z3GDfaciFJB9RGLQ" />
+	<meta name='yandex-verification' content='541799fb3683a47b'/>
+	<meta http-equiv="refresh" content="1200"/>
+
+    <meta name="format-detection" content="telephone=no">
+
+        <link rel="dns-prefetch" href="//i.lb.ua">
+    <link rel="dns-prefetch" href="//www.facebook.com">
+    <link rel="dns-prefetch" href="//www.googletagservices.com">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+
+    <link rel="preload" href="/media/1313/news/fonts/ptsans.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/media/1313/news/fonts/ptsansb.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/media/1313/news/fonts/icons.woff2" as="font" type="font/woff2" crossorigin>
+
+    <link rel="preload" href="/media/1313/news/css/style.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+    <link rel="preload" href="/media/1313/news/js/common.js" as="script">
+    <link rel="preload" href="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" as="script">
+    
+		<link rel="alternate" type="application/rss+xml" title="LB.ua RSS" href="https://lb.ua/export/rss.xml">
+	
+	<!-- facebook -->
+		<meta property="fb:app_id" content="147594101940225">
+	<meta property="fb:admins" content="100001550293023">
+	<meta property="og:site_name" content="LB.ua">
+    <meta name="twitter:site" content="@lb_ua">
+	    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- maximum-scale=3 -->
+
+	<!-- CSS -->
+	    	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" href="/media/1313/news/css/style.css">
+	    <link rel="stylesheet" href="/media/1313/news/css/elections.css">
+
+        
+    
+
+    <!-- Javascript -->
+    <!--[if lt IE 9]>
+	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js" async="async"></script>
+	<![endif]-->
+
+
+	    <script src="/media/1313/news/js/common.js" async="async"></script>
+	
+	
+
+        <script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async="async"></script>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6096932064585080",
+          enable_page_level_ads: true
+     });
+    </script>
+
+    <script src='https://www.googletagservices.com/tag/js/gpt.js' async='async'></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    
+</head>
+
+
+<body>
+
+
+<header class="site-header">
+
+	<div class="layout">
+	<div class="layout-wrapper clearfix">
+        <nav class="header">
+            <div class="logo"><a href="https://lb.ua"></a></div>
+
+            <ul class="nav-menu nav-menu-right">
+                                <li class="nav-item nav-item-socials dropdown"><a href="javascript:void(0);" data-toggle="dropdown" type="button"><span class="icons icon-share"/></a>
+                    <ul class="dropdown-menu dropdown-socials">
+                        <li class="border"><a rel="nofollow" target="_blank" href="https://www.facebook.com/lb.ua"><span class="icons icon-facebook"/></a></li>
+                        <li class="border"><a rel="nofollow" target="_blank" href="https://twitter.com/lb_ua"><span class="icons icon-twitter"/></a></li>
+                        
+                        <li><a rel="nofollow" href="https://lb.ua/rss"><span class="icons icon-rss"/></a></li>
+                    </ul>
+                </li>
+                
+                                <li class="nav-item nav-item-search"><a href="#header-search" data-toggle="collapse" aria-expanded="false" aria-controls="header-search"><span class="icons icon-search"/></a></li>
+                
+                                <li class="nav-item nav-item-lang dropdown"><a href="javascript:void(0);" data-toggle="dropdown" type="button">РУС</a>
+                    <ul class="dropdown-menu">
+                        <li class="border"><a href="//lb.ua" alt="русский">РУС</a></li>
+                        <li class="border"><a href="//ukr.lb.ua" alt="українська">УКР</a></li>
+                        <li><a href="//en.lb.ua" alt="english">ENG</a></li>
+                    </ul>
+                </li>
+                
+				                <li class="nav-item nav-item-menu dropdown"><a a href="javascript:void(0);" onclick="return false;" type="button" data-toggle="dropdown"><span class="icons icon-bars"/></a>
+                    <ul class="dropdown-menu dropdown-right">
+                        <li class="nav-item-menu-icons">
+                            <nobr>
+                            <a rel="nofollow" target="_blank" href="https://www.facebook.com/lb.ua"><span class="icons icon-facebook"/></a>
+                            <a rel="nofollow" target="_blank" href="https://twitter.com/lb_ua"><span class="icons icon-twitter"/></a>
+                            
+                            </nobr>
+                        </li>
+                        <li><a href="/newsfeed">Новости</a></li>
+                        <li><a href="/analytics">Публикации</a></li>
+                        <li><a href="/blog">Блоги</a></li>
+                        <li><a href="/politics">Политика</a></li>
+                        <li><a href="/economics">Экономика</a></li>
+                        <li><a href="/society">Общество</a></li>
+                        <li><a href="/culture">Культура</a></li>
+                        <li><a href="/world">Мир</a></li>
+                        <li><a href="/sport">Спорт</a></li>
+                        
+                        <li><a href="/theme">Спецтемы</a></li>
+                        <li><a href="/file">Досье</a></li>
+                        <li><a href="/photo">Фото/Видео</a></li>
+                        <li><a href="/author">Авторы</a></li>
+                        <li><a href="/archive">Архив</a></li>
+                    </ul>
+                </li>
+                            </ul>
+
+                        <ul class="nav-menu nav-menu-main">
+                <li class="dropdown"><a href="javascript:void(0);" onclick="return false;" type="button" data-toggle="dropdown">Новости<span class="icons icon-down"></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/politics">Политика</a></li>
+                        <li><a href="/economics">Экономика</a></li>
+                        <li><a href="/society">Общество</a></li>
+                        <li><a href="/culture">Культура</a></li>
+                        <li><a href="/world">Мир</a></li>
+                        <li><a href="/sport">Спорт</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="nav-item-analytics"><a href="/analytics">Публикации</a></li>
+                <li class="nav-item-blogs"><a href="/blog">Блоги</a></li>
+                <li class="nav-item-photo"><a href="/photo">Фото/Видео</a></li>
+            </ul>
+            
+    		
+        </nav>
+	</div>
+	</div>
+
+        <div class="collapse" id="header-search">
+    <div class="layout">
+        <div class="layout-wrapper">
+            <form class="search-form" action="/search">
+                <input class="search-txt" type="text" name="q" placeholder="Фраза для поиска"/>
+                <button class="search-btn" type="submit"><span class="icons icon-search"></button>
+            </form>
+        </div>
+    </div>
+    </div>
+    
+    	<div class="sub-menu">
+	<div class="layout">
+		<div class="layout-wrapper">
+			<ul class="nav-links">
+						    				            <li class=""><a href="https://lb.ua/tag/13516_boevie_deystviya_na_vostoke_ukraini">Война на Донбассе<nobr></nobr>
+</a></li>
+            <li class=""><a href="https://lb.ua/tag/16659_kishkina">KishkiNa <nobr></nobr>
+</a></li>
+            <li class="important"><a href="https://lb.ua/tag/16116_vibori_v_verhovnuyu_radu_2019">Выборы в Верховную Раду<nobr></nobr>
+</a></li>
+            <li class=""><a href="https://lb.ua/tag/4587_kannskiy_kinofestival">Канны-2019<nobr></nobr>
+</a></li>
+    			    						</ul>
+		</div>
+	</div>
+	</div>
+    
+</header>
+
+        <div class="header-anons hide-on-phone">
+<div class="layout layout-anons">
+<div class="layout-wrapper clearfix">
+<div class="slick-responsive" data-slick='{"autoplay": "true", "autoplaySpeed": 5000}'>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/news/2019/05/21/427444_administratsiyu_prezidenta_vozglavil.html"><img src="https://i.lb.ua/114/50/5ce3f31068952_200_130.jpeg" alt="Администрацию президента возглавил Богдан (обновлено)" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/news/2019/05/21/427444_administratsiyu_prezidenta_vozglavil.html"><span class="ico i-exclusive"></span>Администрацию президента возглавил Богдан (обновлено)<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/news/2019/05/21/427484_glava_ap_predlozhil_referendum.html"><img src="https://i.lb.ua/035/16/5ce44796dafe9_200_130.jpeg" alt="Глава АП предложил референдум о заключении мирных договоренностей с Россией" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/news/2019/05/21/427484_glava_ap_predlozhil_referendum.html">Глава АП предложил референдум о заключении мирных договоренностей с Россией<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/news/2019/05/21/427441_sbu_vernutsya_kadri.html"><img src="https://i.lb.ua/045/33/5ce3ed56e0ea3_200_130.jpeg" alt="В СБУ могут вернуться кадры Хорошковского?" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/news/2019/05/21/427441_sbu_vernutsya_kadri.html"><span class="ico i-exclusive"></span>В СБУ могут вернуться кадры Хорошковского?<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/news/2019/05/21/427472_sekretarem_snbo_naznachen.html"><img src="https://i.lb.ua/104/28/5ce42b9413b73_200_130.jpeg" alt="Секретарем СНБО будет назначен экс-министр финансов Данилюк, - источник (обновлено)" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/news/2019/05/21/427472_sekretarem_snbo_naznachen.html"><span class="ico i-exclusive"></span>Секретарем СНБО будет назначен экс-министр финансов Данилюк, - источник (обновлено)<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/news/2019/05/21/427469_smi_soobshchili_vozvrashchenii_ukrainu.html"><img src="https://i.lb.ua/107/05/5ce41eb1715f3_200_130.jpeg" alt="СМИ сообщили о возвращении в Украину экс-главы СБУ Хорошковского (обновлено)" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/news/2019/05/21/427469_smi_soobshchili_vozvrashchenii_ukrainu.html">СМИ сообщили о возвращении в Украину экс-главы СБУ Хорошковского (обновлено)<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/economics/2019/05/22/427503_missiya_mvf_dosrochno_pokinula_ukrainu.html"><img src="https://i.lb.ua/071/13/5ce4efe743a62_200_130.jpeg" alt="Миссия МВФ досрочно покинула Украину и не будет пересматривать программу, - СМИ" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/economics/2019/05/22/427503_missiya_mvf_dosrochno_pokinula_ukrainu.html">Миссия МВФ досрочно покинула Украину и не будет пересматривать программу, - СМИ<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/news/2019/05/21/427393_lyashko_ustroil_skandal_ap_izza.html"><img src="https://i.lb.ua/102/26/5ce3ae8e4d4b6_200_130.jpeg" alt="​Ляшко устроил скандал в АП из-за запрета снимать на телефон переговоры с Зеленским" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/news/2019/05/21/427393_lyashko_ustroil_skandal_ap_izza.html"><span class="ico i-video"></span>​Ляшко устроил скандал в АП из-за запрета снимать на телефон переговоры с Зеленским<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/news/2019/05/21/427443_oppoblok_prizval_zelenskogo.html"><img src="https://i.lb.ua/065/59/5ce3f06492e6d_200_130.jpeg" alt="&quot;Оппоблок&quot; призвал Зеленского разблокировать захваченный РФ Донбасс" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/news/2019/05/21/427443_oppoblok_prizval_zelenskogo.html">"Оппоблок" призвал Зеленского разблокировать захваченный РФ Донбасс<nobr></nobr>
+</a></div>
+    </div>
+    <div class="header-anons-item">
+        <a href="https://lb.ua/world/2019/05/21/427402_diplomaticheskim_sovetnikom.html"><img src="https://i.lb.ua/015/28/5ce3bb1dbbd37_200_130.jpeg" alt="Дипломатическим советником Зеленского может стать Елена Зеркаль, а главой МИД Вадим Пристайко" class="photo"></a>
+        <div class="title"><a href="https://lb.ua/world/2019/05/21/427402_diplomaticheskim_sovetnikom.html"><span class="ico i-exclusive"></span>Дипломатическим советником Зеленского может стать Елена Зеркаль, а главой МИД Вадим Пристайко<nobr></nobr>
+</a></div>
+    </div>
+</div>
+</div>
+</div>
+</div>
+    
+
+<div class="site-content layout layout-main">
+
+        <div class="layout-wrapper clearfix">
+
+        
+		<div class="col-content ">
+		    <div class="col-content-wrapper clearfix">
+
+            			
+
+	            	            	            	            	            	            
+<ul class="feed supernews">
+    <li class="item-article">            <a href="https://lb.ua/news/2019/05/22/427531_ruslan_stefanchuk_use_virishuie.html"><img src="https://i.lb.ua/090/18/5ce5278af3e70.jpeg" alt="Руслан Стефанчук: «Усе вирішує Зеленський» " class="photo-large"></a>
+<div class="author">Соня Кошкина, Діана Буцко</div><h1><a href="https://lb.ua/news/2019/05/22/427531_ruslan_stefanchuk_use_virishuie.html">Руслан Стефанчук: «Усе вирішує Зеленський» <nobr></nobr>
+</a></h1>
+        «Дострокові вибори мають для нас плюси і мінуси. Ми маємо непогані шанси стати бенефіціарами тих рейтингів, які є», - визнає ідеолог партії "Слуга народу" 
+    </li></ul>
+
+
+
+<section class="col-left">
+    <div class="float_container_m0"></div>
+    <div class="float_container_t0"></div>
+        
+    <ul class="feed">
+        <li class="adv-block adv-center float_container_premium"></li>
+        <li class="adv-block float_container_m1"></li>
+
+                                                                        <li class="item-article">            <a href="https://lb.ua/news/2019/05/22/427546_rada_otkazalas_podderzhat.html"><img src="https://i.lb.ua/049/55/5ce52ed243da2_200_130.jpeg" alt="Рада отказалась поддержать законопроекты Зеленского" class="photo-small"></a>
+<h4><a href="https://lb.ua/news/2019/05/22/427546_rada_otkazalas_podderzhat.html">Рада отказалась поддержать законопроекты Зеленского<nobr></nobr>
+</a></h4>
+    </li>                <li class="item-article">            <a href="https://lb.ua/news/2019/05/22/427529_glava_predvibornogo_shtaba.html"><img src="https://i.lb.ua/091/25/5ce52a85e0dae_200_130.jpeg" alt="Глава предвыборного штаба Зеленского получил должность первого замглавы СБУ" class="photo-small"></a>
+<h4><a href="https://lb.ua/news/2019/05/22/427529_glava_predvibornogo_shtaba.html">Глава предвыборного штаба Зеленского получил должность первого замглавы СБУ<nobr></nobr>
+</a></h4>
+    </li>                <li class="item-article">            <a href="https://lb.ua/news/2019/05/22/427536_radu_prohodyat_chetire_partii_dve.html"><img src="https://i.lb.ua/114/33/5ce5232bb3990_200_130.jpeg" alt="В Раду проходят четыре партии, еще две - на грани" class="photo-small"></a>
+<h4><a href="https://lb.ua/news/2019/05/22/427536_radu_prohodyat_chetire_partii_dve.html">В Раду проходят четыре партии, еще две - на грани<nobr></nobr>
+</a></h4>
+    </li>                
+        
+
+                
+                    <li class="split-time">Среда, 22 Мая</li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/sport/2019/05/22/427552_futbolist_shikarnim_golom_92y.html"><span class="ico i-video"></span>Футболист шикарным голом на 92-й минуте лишил команду отца путевки в плей-офф национального чемпионата<nobr><time datetime="2019-05-22T15:17:00Z">
+    15:17
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/news/2019/05/22/427555_rade_zaregistrirovano.html">В Раде зарегистрировано межфракционное объединение "Бизнес-варта"<nobr><time datetime="2019-05-22T15:17:00Z">
+    15:17
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/news/2019/05/22/427554_zamglavi_ap_vmesto_zerkal_planiruyut.html"><span class="ico i-exclusive"></span>Замглавы АП вместо Зеркаль планируют назначить в ближайшее время<nobr><time datetime="2019-05-22T15:15:00Z">
+    15:15
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/culture/2019/05/22/427553_raskopkam_pochtovoy_ploshchadi_kieve.html">Раскопкам на Почтовой площади в Киеве присвоен статус памятника национального значения<nobr><time datetime="2019-05-22T15:05:00Z">
+    15:05
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/news/2019/05/22/427551_ukaz_rospuske_radi_veroyatno.html">Указ о роспуске Рады, вероятно, будет обнародован завтра, - Стефанчук<nobr><time datetime="2019-05-22T14:46:00Z">
+    14:46
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/economics/2019/05/22/427550_kabmin_utverdil_model_anbandlinga.html">Кабмин утвердил модель анбандлинга, против которой выступал "Нафтогаз"<nobr><time datetime="2019-05-22T14:37:00Z">
+    14:37
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/sport/2019/05/22/427547_shahter_6_minut_perenes_nachalo.html">"Шахтер" на 6 минут перенес начало сегодняшнего матча с "Динамо"<nobr><time datetime="2019-05-22T14:33:00Z">
+    14:33
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important">
+        <a href="https://lb.ua/culture/2019/05/22/427544_kannskom_kinofestivale.html"><span class="ico i-exclusive"></span><span class="ico i-photo"></span>На Каннском кинофестивале состоялась премьера "Домой" Наримана Алиева<nobr><time datetime="2019-05-22T14:26:00Z">
+    14:26
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/news/2019/05/22/427548_leshchenko_nayem_zalishchuk_kornatskiy.html">Лещенко, Найем, Залищук и Корнацкий вышли из фракции БПП<nobr><time datetime="2019-05-22T14:18:00Z">
+    14:18
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/society/2019/05/22/427549_predstaviteli_natsionalisticheskih.html"><span class="ico i-photo"></span>Представители националистических движений зажгли под Радой файеры<nobr><time datetime="2019-05-22T14:18:00Z">
+    14:18
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important">
+        <a href="https://lb.ua/society/2019/05/22/427545_krizisniy_tsentr_zhenshchin_vinnitse.html"><span class="ico i-exclusive"></span>Кризисный центр для женщин в Виннице под угрозой закрытия<nobr><time datetime="2019-05-22T14:15:00Z">
+    14:15
+    </time></nobr>
+</a>
+    </li>
+    
+    <li class="adv-block"><!-- Top.320x100 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-6096932064585080"
+     data-ad-slot="4850579085"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></li>
+    <li class="important">
+        <a href="https://lb.ua/news/2019/05/22/427546_rada_otkazalas_podderzhat.html">Рада отказалась поддержать законопроекты Зеленского<nobr><time datetime="2019-05-22T14:12:00Z">
+    14:12
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/society/2019/05/22/427541_ukraine_vvedut_uchet_dtp.html">В Украине введут учет ДТП<nobr><time datetime="2019-05-22T14:01:00Z">
+    14:01
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/society/2019/05/22/427543_v_chetverg_kieve_25.html">​В четверг в Киеве  до +25 и кратковременный дождь<nobr><time datetime="2019-05-22T14:00:00Z">
+    14:00
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/sport/2019/05/22/427525_eksglavniy_trener_chelsi_otsudil.html">Экс-главный тренер "Челси" отсудил у клуба 9 млн фунтов<nobr><time datetime="2019-05-22T13:56:00Z">
+    13:56
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important">
+        <a href="https://lb.ua/economics/2019/05/22/427539_kabmin_uzhestochil_litsenzionnie.html">Кабмин ужесточил лицензионные требования к туроператорам<nobr><time datetime="2019-05-22T13:55:00Z">
+    13:55
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/society/2019/05/22/427535_politsiya_kievskoy_oblasti_poluchila_10.html">Полиция Киевской области получила 10 новых автомобилей<nobr><time datetime="2019-05-22T13:40:00Z">
+    13:40
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important">
+        <a href="https://lb.ua/news/2019/05/22/427540_zakonoproekt_zelenskogo_3nom.html">Законопроект Зеленского о 3%-ном барьере и отмене мажоритарки зарегистрирован на сайте Рады<nobr><time datetime="2019-05-22T13:37:00Z">
+    13:37
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/world/2019/05/22/427538_ssha_obvinili_asada_primenenii.html">США обвинили Асада в применении химоружия<nobr><time datetime="2019-05-22T13:29:00Z">
+    13:29
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/news/2019/05/22/427533_aktivisti_prekratili_blokirovat.html">"Активисты" прекратили блокировать работу ВККС<nobr><time datetime="2019-05-22T13:09:00Z">
+    13:09
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important">
+        <a href="https://lb.ua/news/2019/05/22/427536_radu_prohodyat_chetire_partii_dve.html">В Раду проходят четыре партии, еще две - на грани, - соцопрос<nobr><time datetime="2019-05-22T13:09:00Z">
+    13:09
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important">
+        <a href="https://lb.ua/economics/2019/05/22/427534_mvf_oproverg_otezd_missii_ukraini.html">МВФ опроверг отъезд миссии из Украины<nobr><time datetime="2019-05-22T13:04:00Z">
+    13:04
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/news/2019/05/22/427532_kremle_otreagirovali_zayavlenie.html">В Кремле отреагировали на заявление главы АП о референдуме по Донбассу<nobr><time datetime="2019-05-22T12:58:00Z">
+    12:58
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="">
+        <a href="https://lb.ua/sport/2019/05/22/427524_pari_senzhermen_ustanovil_tsennik.html">"Пари Сен-Жермен" установил ценник на Мбаппе<nobr><time datetime="2019-05-22T12:56:00Z">
+    12:56
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427530_parubiy_schitaet_ukaz_zelenskogo.html">Парубий считает указ Зеленского о роспуске Рады незаконным<nobr><time datetime="2019-05-22T12:56:00Z">
+    12:56
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427528_sud_osvobodil_izpod_strazhi_bivshego.html">Суд освободил из-под стражи бывшего мужа Подкопаевой Нагорного<nobr><time datetime="2019-05-22T12:32:00Z">
+    12:32
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427529_glava_predvibornogo_shtaba.html">Глава предвыборного штаба Зеленского получил должность первого замглавы СБУ<nobr><time datetime="2019-05-22T12:31:00Z">
+    12:31
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427521_kabmin_rabotaet_shtatnom_rezhime_.html">Кабмин работает в штатном режиме, - Нищук<nobr><time datetime="2019-05-22T12:27:00Z">
+    12:27
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427527_parubiy_schel_predlozhenniy_komandoy.html">Парубий счел предложенный командой Зеленского референдум путем к капитуляции<nobr><time datetime="2019-05-22T12:18:00Z">
+    12:18
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427526_deputati_zaregistrirovalis.html"><span class="ico i-exclusive"></span><span class="ico i-video"></span><span class="ico i-photo"></span>​​Депутаты зарегистрировались на внеочередное заседание Рады с третьей попытки (трансляция заседания)<nobr><time datetime="2019-05-22T12:17:00Z">
+    12:17
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427522_kabmin_odobril_proekt_soglasheniya.html">​Кабмин одобрил проект соглашения о взаимной отмене виз с Монголией <nobr><time datetime="2019-05-22T12:11:00Z">
+    12:11
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/sport/2019/05/22/427523_novoy_forme_dinamo.html"><span class="ico i-photo"></span>На новой форме "Динамо" будет присутствовать элемент национального флага<nobr><time datetime="2019-05-22T12:09:00Z">
+    12:09
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427520_zelenskiy_zapustil_blog_zhizni.html"><span class="ico i-video"></span>Зеленский запустил блог о жизни президента<nobr><time datetime="2019-05-22T11:59:00Z">
+    11:59
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/culture/2019/05/22/427519_dnyu_kieva_stolitse.html">Ко Дню Киева в столице будут бесплатные экскурсии<nobr><time datetime="2019-05-22T11:59:00Z">
+    11:59
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427515_parubiy_poprosil_zelenskogo.html">Парубий попросил Зеленского конкретизировать номера законопроектов для рассмотрения ВР<nobr><time datetime="2019-05-22T11:41:00Z">
+    11:41
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/economics/2019/05/22/427517_kabmin_videlil_32_mln_griven.html">Кабмин выделил 32 млн гривен на финансовый аудит "Укроборонпрома"<nobr><time datetime="2019-05-22T11:40:00Z">
+    11:40
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/sport/2019/05/22/427516_lider_sbornoy_frantsii_futbolu.html"><span class="ico i-photo"></span>Лидер сборной Франции по футболу снялся в журнале для ЛГБТ меньшинств<nobr><time datetime="2019-05-22T11:37:00Z">
+    11:37
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427514_zelenskiy_otmenil_naznachenie.html">Зеленский отменил назначение Зеркаль замглавы АП, - указ<nobr><time datetime="2019-05-22T11:21:00Z">
+    11:21
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/economics/2019/05/22/427512_mau_poluchila_vtoroy_samolet.html">МАУ получила второй самолет Embraer-195<nobr><time datetime="2019-05-22T11:13:00Z">
+    11:13
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/sport/2019/05/22/427513_solskyaer_gotov_poyti_kraynie.html">Сольскьяер готов пойти на крайние меры, чтобы оставить Погба в "Манчестер Юнайтед"<nobr><time datetime="2019-05-22T11:06:00Z">
+    11:06
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427511_pecherskiy_sud_snimet_onishchenko.html"><span class="ico i-exclusive"></span>Печерский суд снимет Онищенко с розыска, - источник<nobr><time datetime="2019-05-22T11:05:00Z">
+    11:05
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427510_27_sudey_okruzhnogo_adminsuda_kieva.html">27 судей Окружного админсуда Киева не явились на квалифоценивание<nobr><time datetime="2019-05-22T10:57:00Z">
+    10:57
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important hide-on-phone">
+        <a href="https://lb.ua/society/2019/05/22/427509_vosem_voennih_popali_plen_vozle.html">Восемь военных попали в плен возле Новотроицкого<nobr><time datetime="2019-05-22T10:45:00Z">
+    10:45
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/society/2019/05/22/427506_kieve_marka_vovchka_sgorel_sklad.html">В Киеве на Марка Вовчка сгорел склад<nobr><time datetime="2019-05-22T10:33:00Z">
+    10:33
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/economics/2019/05/22/427453_allseeds100_000_schastlivoe.html"><span class="ico i-updated">Новости компаний</span>Allseeds:“100 000” - счастливое число апреля 19го<nobr><time datetime="2019-05-22T10:30:00Z">
+    10:30
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427507_bivshiy_chlen_nkreku_gerus_stal.html">Бывший член НКРЭКУ Герус стал представителем Зеленского в Кабмине<nobr><time datetime="2019-05-22T10:22:00Z">
+    10:22
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427504_grazhdanskaya_pozitsiya_gritsenko.html">​"Гражданская позиция" Гриценко пойдет на выборы с партиями Добродомова, Томенко и Катеринчука<nobr><time datetime="2019-05-22T10:03:00Z">
+    10:03
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important hide-on-phone">
+        <a href="https://lb.ua/society/2019/05/22/427502_institute_gorshenina_sostoitsya.html"><span class="ico i-exclusive"></span>В Институте Горшенина состоится круглый стол, посвященный роли Президента в утверждении правового государства<nobr><time datetime="2019-05-22T09:44:00Z">
+    09:44
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class="important hide-on-phone">
+        <a href="https://lb.ua/economics/2019/05/22/427503_missiya_mvf_dosrochno_pokinula_ukrainu.html">Миссия МВФ досрочно покинула Украину и не будет пересматривать программу, - СМИ<nobr><time datetime="2019-05-22T09:44:00Z">
+    09:44
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427501_sayte_radi_poka_poyavilsya.html">На сайте Рады пока не появился согласованный текст законопроекта о выборах <nobr><time datetime="2019-05-22T09:34:00Z">
+    09:34
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427500_suprun_zheneve_prizvala_isklyuchit.html">Супрун в Женеве призвала исключить Россию из Совбеза ООН <nobr><time datetime="2019-05-22T09:14:00Z">
+    09:14
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/world/2019/05/22/427499_premer_polshi_rossiya_dolzhna.html">Премьер Польши: Россия должна возместить расходы за загрязненную нефть<nobr><time datetime="2019-05-22T08:51:00Z">
+    08:51
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/news/2019/05/22/427498_zerkal_otkazalas_dolzhnosti.html">Зеркаль отказалась от должности замглавы Администрации президента, - СМИ<nobr><time datetime="2019-05-22T08:20:00Z">
+    08:20
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/society/2019/05/22/427497_sutki_boeviki_pyat_raz_obstrelyali.html">За сутки боевики пять раз обстреляли позиции ВСУ на Донбассе<nobr><time datetime="2019-05-22T08:05:00Z">
+    08:05
+    </time></nobr>
+</a>
+    </li>
+    
+    
+    <li class=" hide-on-phone">
+        <a href="https://lb.ua/world/2019/05/22/427495_merkel_makron_pogovorili_putinim.html">Меркель и Макрон поговорили с Путиным об Украине при новом президенте<nobr><time datetime="2019-05-22T00:47:00Z">
+    00:47
+    </time></nobr>
+</a>
+    </li>
+        <li class="show-more"><a href="/newsfeed">Все новости</a></li>
+            </ul>
+</section>
+
+
+<section class="col-middle">
+        <div class="float_container_m0_wide"><div class="float_block">
+    <ul class="feed">
+                                        <li class="item-article">            <a href="https://lb.ua/economics/2019/05/22/427534_mvf_oproverg_otezd_missii_ukraini.html"><img src="https://i.lb.ua/067/45/5ce5210093cfb.jpeg" alt="МВФ опроверг отъезд миссии из Украины" class="photo-middle"></a>
+<h2><a href="https://lb.ua/economics/2019/05/22/427534_mvf_oproverg_otezd_missii_ukraini.html">МВФ опроверг отъезд миссии из Украины<nobr></nobr>
+</a></h2>
+        "Эксперты МВФ продолжают свои встречи с представителями власти".
+    </li>                <li class="item-article">            <a href="https://lb.ua/culture/2019/05/22/427352_kinogid_zbochentsya_shcho_divitisya_48y.html"><img src="https://i.lb.ua/043/02/5ce4f83ac09c5.jpeg" alt="Кіногід збоченця: що дивитися на 48-й Молодості" class="photo-middle"></a>
+<div class="author">Алекс Малишенко</div><h2><a href="https://lb.ua/culture/2019/05/22/427352_kinogid_zbochentsya_shcho_divitisya_48y.html">Кіногід збоченця: що дивитися на 48-й Молодості<nobr></nobr>
+</a></h2>
+        Ніколи такого не було, і от знову — кінофестиваль «Молодість» вже вдруге проходить у травні. Поки ми звикаємо до нових дат, фестиваль продовжує змінюватися. LB.ua розібрався з усіма най-най смаколиками фестивалю, але про всяк випадок наголошує: фільми поза списком теж вартують вашої уваги.
+    </li>                                                                    </ul>
+    </div></div>
+    
+    <ul class="feed">
+                
+    	<li class="item-article">
+                    <a href="https://lb.ua/world/2019/05/22/427440_kreml_haos.html"><img src="https://i.lb.ua/113/05/5ce4f68429f66.jpeg" alt="Кремль и хаос" class="photo-middle"></a>
+<div class="author">Виталий Портников</div><h2><a href="https://lb.ua/world/2019/05/22/427440_kreml_haos.html">Кремль и хаос<nobr></nobr>
+</a></h2>
+        Путину совершенно не важно, кого финансировать – ультраправых или левых радикалов, ревнителей «семейных ценностей» или сторонникам толерантности и антиглобализма. У Кремля есть простая и ясная цель – развал Европы.
+        </li>
+    	<li class="item-article">
+                    <a href="https://lb.ua/world/2019/05/22/427494_deputatidiplomati.html"><img src="https://i.lb.ua/109/27/5ce50366d7804.jpeg" alt="Депутати-дипломати " class="photo-middle"></a>
+<div class="author">Игорь Соловей</div><h2><a href="https://lb.ua/world/2019/05/22/427494_deputatidiplomati.html">Депутати-дипломати <nobr></nobr>
+</a></h2>
+        Чи правомірно присвоїли дипломатичний ранг “Надзвичайний і Повноважний Посол” кільком депутатам.
+        </li>
+    	<li class="item-article">
+                    <a href="https://lb.ua/news/2019/05/21/427480_pas_zelenskogo_rada_pokazhet_.html"><img src="https://i.lb.ua/121/39/5ce5037264541.jpeg" alt="Пас Зеленского. Рада покажет " class="photo-middle"></a>
+<div class="author">Анна Стешенко</div><h2><a href="https://lb.ua/news/2019/05/21/427480_pas_zelenskogo_rada_pokazhet_.html">Пас Зеленского. Рада покажет <nobr></nobr>
+</a></h2>
+        В команде Зеленского решили соблюсти нормы регламента перед обнародованием Указа о досрочном приостановлении полномочий Рады VIII созыва. О том, что на самом деле происходило за закрытыми дверями на Банковой – читайте в репортаже LB.ua.
+        </li>
+    	<li class="item-article">
+                    <a href="https://lb.ua/world/2019/05/21/427348_pavlo_klimkin_v_zovnishniy_polititsi.html"><img src="https://i.lb.ua/040/20/5ce4089a74a88.jpeg" alt="Павло Клімкін: &quot;В зовнішній політиці ми нічого не здали&quot;" class="photo-middle"></a>
+<div class="author">Соня Кошкина, Игорь Соловей</div><h2><a href="https://lb.ua/world/2019/05/21/427348_pavlo_klimkin_v_zovnishniy_polititsi.html">Павло Клімкін: "В зовнішній політиці ми нічого не здали"<nobr></nobr>
+</a></h2>
+        Путін запланував перевлаштування всього простору навколо Росії. І це стосується не тільки України: це стосується Молдови, Білорусі, Кавказу і навіть Казахстану.  ... Нам важливо не програти цю війну. Наш виграш буде вже в тому, що ми не програли. 
+        </li>
+    	<li class="item-article">
+                    <a href="https://lb.ua/culture/2019/05/21/427416_kanni2019_prividi_minulogo.html"><img src="https://i.lb.ua/010/04/5ce3d0ecab3b1.jpeg" alt="Канни-2019: Привиди минулого, антиутопії і міф про Прометея" class="photo-middle"></a>
+<div class="author">Дарія Бадьйор</div><h2><a href="https://lb.ua/culture/2019/05/21/427416_kanni2019_prividi_minulogo.html">Канни-2019: Привиди минулого, антиутопії і міф про Прометея<nobr></nobr>
+</a></h2>
+        На 72-му Каннському кінофестивалі оприявнена тема зомбі виросла до метафізичних масштабів: про переходи між світами живих і мертвих розповідають всі – від Педро Альмодовара, у якого головний герой прощається з привидами минулого, до Роберта Еггерса, який представив тут хтонічний хоррор про боротьбу світла і темряви.
+        </li>
+    	<li class="item-article">
+                    <a href="https://lb.ua/society/2019/05/20/427338_dlya_mene_golovne_rozsliduvannya_.html"><img src="https://i.lb.ua/104/13/5ce387de609e2.jpeg" alt="“Для мене головне - розслідування&quot;, - мати загиблого героя Небесної сотні" class="photo-middle"></a>
+<div class="author">Мария Лебедева</div><h2><a href="https://lb.ua/society/2019/05/20/427338_dlya_mene_golovne_rozsliduvannya_.html">“Для мене головне - розслідування", - мати загиблого героя Небесної сотні<nobr></nobr>
+</a></h2>
+        Вчора на Алеї Героїв Небесної сотні з’явилася огороджувальна стрічка та таблички з написами: "Проводяться слідчі дії", "Місце злочину”, “Заборонено змінювати обстановку". Їх встановили родичі Небесної Сотні разом з активістами. Вони вимагають зберегти вулицю для завершення всіх слідчих експериментів у розслідуванні вбивств людей на Майдані в 2014 році.
+        </li>
+    	<li class="item-article hide-on-phone">
+                    <a href="https://lb.ua/news/2019/05/20/427340_prisyaga_prezidenta_bilo_veselo.html"><img src="https://i.lb.ua/024/59/5ce3878e3aa6f.jpeg" alt="Присяга президента: «было весело». Но не всем " class="photo-middle"></a>
+<div class="author">Анна Стешенко</div><h2><a href="https://lb.ua/news/2019/05/20/427340_prisyaga_prezidenta_bilo_veselo.html"><span class="ico i-photo"></span>Присяга президента: «было весело». Но не всем <nobr></nobr>
+</a></h2>
+        Без "Мерседеса", но с репетицией, перепалкой с Ляшко и цитатами Рейгана - как прошла инаугурация шестого Президента Украины, читайте в репортаже LB.ua.
+        </li>
+    	<li class="item-article hide-on-phone">
+                    <a href="https://lb.ua/news/2019/05/20/427296_robitimu_vse_shchob_ukraintsi_bilshe.html"><img src="https://i.lb.ua/055/12/5ce2c4b63f071.jpeg" alt="&quot;Робитиму все, щоб українці більше не плакали&quot;. Інавгураційна промова Зеленського " class="photo-middle"></a>
+<div class="author">LB.ua</div><h2><a href="https://lb.ua/news/2019/05/20/427296_robitimu_vse_shchob_ukraintsi_bilshe.html">"Робитиму все, щоб українці більше не плакали". Інавгураційна промова Зеленського <nobr></nobr>
+</a></h2>
+        LB.ua передруковує повний текст інавгураційної промови Володимира Зеленського, котру він виголосив після складання присяги у Верховній Раді.
+        </li>
+        <li class="show-more"><a href="/analytics">Все публикации</a></li>
+            </ul>
+</section>
+
+	
+	    	</div>
+
+        		</div>
+
+		<aside class="col-right">
+        	
+    	
+<section class="float_container_t0_wide">
+<div class="float_block">
+<h3 class="caption no-margin">Анонс</h3>
+    <ul class="feed first-item-wide">
+    <li class="first">
+        <a href="https://lb.ua/society/2019/05/22/427502_institute_gorshenina_sostoitsya.html"><img class="photo" src="https://i.lb.ua/051/12/5ce4f940c33cf.jpeg" alt="https://lb.ua/society/2019/05/22/427502_institute_gorshenina_sostoitsya.html"/><span class="ico i-exclusive"></span>В Институте Горшенина состоится круглый стол, посвященный роли Президента в утверждении правового государства <nobr></nobr>
+</a>
+    </li>
+        </ul>
+</div>
+</section>
+
+    <section class="float_container_premium_wide">
+<div class="float_block"><!-- Index.336x280 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-6096932064585080"
+     data-ad-slot="9952089888"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</section>
+    	
+    	
+<section class="section-photo-story hide-on-tablet hide-on-phone">
+<h3 class="caption no-margin">Выбор редакции</h3>
+<div class="slick-gallery" data-slick='{ "infinite": true, "speed": 300, "slidesToShow": 1, "autoplay": true, "autoplaySpeed": 5000 }'>
+        <div class="gallery-item"><div class="gallery-item-image">
+        <a class="img" href="https://lb.ua/news/2019/05/16/426989_operatsiya_dzhuliani_ukrainski.html"><img class="photo" style src="https://i.lb.ua/057/13/5cdd45cccd10b.jpeg" alt="https://lb.ua/news/2019/05/16/426989_operatsiya_dzhuliani_ukrainski.html"/></a>
+        <div class="float-block"><a class="img" href="https://lb.ua/news/2019/05/16/426989_operatsiya_dzhuliani_ukrainski.html">Операція Джуліані: «українські карти» в американській політиці</a></div></a>
+    </div></div>
+        <div class="gallery-item"><div class="gallery-item-image">
+        <a class="img" href="https://lb.ua/news/2019/05/15/426872_nadiya_vakarchuka_z_kim_novi.html"><img class="photo" style src="https://i.lb.ua/048/15/5cdbf36d47156.jpeg" alt="https://lb.ua/news/2019/05/15/426872_nadiya_vakarchuka_z_kim_novi.html"/></a>
+        <div class="float-block"><a class="img" href="https://lb.ua/news/2019/05/15/426872_nadiya_vakarchuka_z_kim_novi.html">​Надія на Вакарчука: з ким «нові обличчя» підуть у Раду</a></div></a>
+    </div></div>
+        <div class="gallery-item"><div class="gallery-item-image">
+        <a class="img" href="https://lb.ua/culture/2019/05/17/427097_kanni2019_politichna_kritika.html"><img class="photo" style src="https://i.lb.ua/020/60/5cde889cb3527.jpeg" alt="https://lb.ua/culture/2019/05/17/427097_kanni2019_politichna_kritika.html"/></a>
+        <div class="float-block"><a class="img" href="https://lb.ua/culture/2019/05/17/427097_kanni2019_politichna_kritika.html">​Канни-2019: Політична критика, жахи людяності та зомбі</a></div></a>
+    </div></div>
+        <div class="gallery-item"><div class="gallery-item-image">
+        <a class="img" href="https://lb.ua/culture/2019/05/10/426487_rozkazhi_shche_shchos_shist_prozovih.html"><img class="photo" style src="https://i.lb.ua/037/57/5cd5377561474.jpeg" alt="https://lb.ua/culture/2019/05/10/426487_rozkazhi_shche_shchos_shist_prozovih.html"/></a>
+        <div class="float-block"><a class="img" href="https://lb.ua/culture/2019/05/10/426487_rozkazhi_shche_shchos_shist_prozovih.html">Розкажи ще щось: шість прозових новинок до Книжкового Арсеналу</a></div></a>
+    </div></div>
+        <div class="gallery-item"><div class="gallery-item-image">
+        <a class="img" href="https://lb.ua/society/2019/05/14/426729_milyon_proti_devyati_chomu_uspishne.html"><img class="photo" style src="https://i.lb.ua/059/61/5cda6e8860d72.jpeg" alt="https://lb.ua/society/2019/05/14/426729_milyon_proti_devyati_chomu_uspishne.html"/></a>
+        <div class="float-block"><a class="img" href="https://lb.ua/society/2019/05/14/426729_milyon_proti_devyati_chomu_uspishne.html">Мільйон проти дев’яти: чому успішне село на Вінничині не поспішає децентралізуватися</a></div></a>
+    </div></div>
+    </div>
+</section>
+
+    	<section class="section-blogs section-column-2 have-background">
+<h3 class="caption no-margin">Блоги</h3>
+<ul class="feed background">
+    <li class="">    <a class="photo-ahref" href="https://lb.ua/blog/irina_zhdanova/427508_pro_pauzi_inavguratsiyu_i.html"><img class="photo photo-blog" src="https://i.lb.ua/069/04/56ab572f8c582.jpeg" alt="Про паузи, інавгурацію і стартаперство" /></a>    <div class="author">Ірина Жданова</div> 
+    <div class="title"><a href="https://lb.ua/blog/irina_zhdanova/427508_pro_pauzi_inavguratsiyu_i.html">Про паузи, інавгурацію і стартаперство<nobr></nobr>
+</a></div>
+    Інавгурації, розпуски, відставки – нові ризики. І нові можливості. Треба вірити і йти.
+</li>
+
+    <li class="">    <a class="photo-ahref" href="https://lb.ua/blog/oleksandr_ganushchyn/427505_proti_zakritih_viborchih_spiskiv_.html"><img class="photo photo-blog" src="https://i.lb.ua/083/00/52d6786d3292a.jpeg" alt="Проти закритих виборчих списків " /></a>    <div class="author">Олександр Ганущин</div> 
+    <div class="title"><a href="https://lb.ua/blog/oleksandr_ganushchyn/427505_proti_zakritih_viborchih_spiskiv_.html">Проти закритих виборчих списків <nobr></nobr>
+</a></div>
+    Сподіваюся, народні депутати не помиляться і зміни, що ведуть до системи із закритими списками, будуть провалені.
+</li>
+
+    <li class="">    <a class="photo-ahref" href="https://lb.ua/blog/stanislav_kutsenko/427442_nove_zhittya_pislya_viyni_yak_vidnoviti.html"><img class="photo photo-blog" src="https://i.lb.ua/102/25/5b1f98d80aa0a.jpeg" alt="Нове життя після війни: як відновити документи для переселенців" /></a>    <div class="author">Станіслав Куценко</div> 
+    <div class="title"><a href="https://lb.ua/blog/stanislav_kutsenko/427442_nove_zhittya_pislya_viyni_yak_vidnoviti.html">Нове життя після війни: як відновити документи для переселенців<nobr></nobr>
+</a></div>
+    Держава захищає права громадян, які постраждали в результаті тимчасової окупації територій України, у сфері державної реєстрації актів цивільного стану.
+</li>
+
+    <li class="">    <a class="photo-ahref" href="https://lb.ua/blog/aleksey_kopytko/427406_konkurentnaya_zarplata_muzeynih.html"><img class="photo photo-blog" src="https://i.lb.ua/022/44/5c137871b9cce.jpeg" alt="Конкурентная зарплата музейных работников как инвестиция в общество" /></a>    <div class="author">Алексей Копытько</div> 
+    <div class="title"><a href="https://lb.ua/blog/aleksey_kopytko/427406_konkurentnaya_zarplata_muzeynih.html">Конкурентная зарплата музейных работников как инвестиция в общество<nobr></nobr>
+</a></div>
+    Если власть нашла средства, чтобы в течение 3 лет в 2 раза повысить зарплаты для 440 тыс. учителей, то с музеями и подавно должна разобраться.
+</li>
+
+    <li class="">    <a class="photo-ahref" href="https://lb.ua/blog/pavlo_ungurian/427398_strategichne_partnerstvo_iz_ssha.html"><img class="photo photo-blog" src="https://i.lb.ua/095/17/5ce3ad89598df.jpeg" alt="Стратегічне партнерство із США продовжуватиметься й після виборів" /></a>    <div class="author">Павло Унгурян</div> 
+    <div class="title"><a href="https://lb.ua/blog/pavlo_ungurian/427398_strategichne_partnerstvo_iz_ssha.html">Стратегічне партнерство із США продовжуватиметься й після виборів<nobr></nobr>
+</a></div>
+    Напередодні інавгурації новообраного Президента України мав робочу поїздку до США, в рамках якої провів ряд зустрічей з представниками законодавчої та виконавчої гілок влади США.
+</li>
+
+    <li class="">    <a class="photo-ahref" href="https://lb.ua/blog/shchygol_iryna/427389_gromadskiy_byudzhet2020.html"><img class="photo photo-blog" src="https://i.lb.ua/026/58/5cdb38cf55be8.jpeg" alt="Громадський бюджет-2020: демократія участі по-київськи?" /></a>    <div class="author">Ірина ​Щиголь</div> 
+    <div class="title"><a href="https://lb.ua/blog/shchygol_iryna/427389_gromadskiy_byudzhet2020.html">Громадський бюджет-2020: демократія участі по-київськи?<nobr></nobr>
+</a></div>
+    Кияни не знають, що є «Громадський бюджет», – а тим більше про те, що проголосувати за нього може і фактичний мешканець Києва без столичної прописки.
+</li>
+
+<li class="show-more"><a href="/blog">Все записи блогов</a></li>
+</ul>
+</section>
+
+        
+
+    <section class="adv-banner-9 hide-on-tablet hide-on-phone">
+    <!-- Index.300x600 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-6096932064585080"
+     data-ad-slot="8605697088"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></section>
+    <section class="section-popular have-background hide-on-phone">
+<div class="caption">Выбор читателей</div>
+	<ul class="feed background">
+        <li>
+        <a href="https://lb.ua/news/2019/05/21/427444_administratsiyu_prezidenta_vozglavil.html">
+            <img src="https://i.lb.ua/114/50/5ce3f31068952_200_130.jpeg" alt="Администрацию президента возглавил Богдан (обновлено)" class="photo">
+            <span class="ico i-exclusive"></span>Администрацию президента возглавил Богдан (обновлено)<nobr></nobr>
+
+        </a>
+    </li>
+        <li>
+        <a href="https://lb.ua/culture/2019/05/17/427150_izza_posledney_serii_igri.html">
+            <img src="https://i.lb.ua/089/43/5cdedb3b84267_200_130.jpeg" alt="Из-за последней серии &quot;Игры престолов&quot; 10 млн американцев не выйдут на работу, - опрос" class="photo">
+            Из-за последней серии "Игры престолов" 10 млн американцев не выйдут на работу, - опрос<nobr></nobr>
+
+        </a>
+    </li>
+        <li>
+        <a href="https://lb.ua/news/2019/05/20/427315_kernes_truhanov_dogovorilis.html">
+            <img src="https://i.lb.ua/015/45/5ce28b02eaf8e_200_130.jpeg" alt="Кернес и Труханов договорились о создании совместной партии (обновлено)" class="photo">
+            <span class="ico i-exclusive"></span>Кернес и Труханов договорились о создании совместной партии (обновлено)<nobr></nobr>
+
+        </a>
+    </li>
+        <li>
+        <a href="https://lb.ua/news/2019/05/20/427340_prisyaga_prezidenta_bilo_veselo.html">
+            <img src="https://i.lb.ua/031/22/5ce2b63b425ec_200_130.jpeg" alt="Присяга президента: «было весело». Но не всем" class="photo">
+            <span class="ico i-photo"></span>Присяга президента: «было весело». Но не всем<nobr></nobr>
+
+        </a>
+    </li>
+        <li>
+        <a href="https://lb.ua/economics/2019/05/22/427503_missiya_mvf_dosrochno_pokinula_ukrainu.html">
+            <img src="https://i.lb.ua/071/13/5ce4efe743a62_200_130.jpeg" alt="Миссия МВФ досрочно покинула Украину и не будет пересматривать программу, - СМИ" class="photo">
+            Миссия МВФ досрочно покинула Украину и не будет пересматривать программу, - СМИ<nobr></nobr>
+
+        </a>
+    </li>
+        <li>
+        <a href="https://lb.ua/news/2019/05/21/427393_lyashko_ustroil_skandal_ap_izza.html">
+            <img src="https://i.lb.ua/102/26/5ce3ae8e4d4b6_200_130.jpeg" alt="​Ляшко устроил скандал в АП из-за запрета снимать на телефон переговоры с Зеленским" class="photo">
+            <span class="ico i-video"></span>​Ляшко устроил скандал в АП из-за запрета снимать на телефон переговоры с Зеленским<nobr></nobr>
+
+        </a>
+    </li>
+    </ul>
+</section>
+    
+    
+
+		</aside>
+
+	</div>
+    
+</div>
+
+
+<footer class="site-footer">
+	<div class="layout">
+<div class="layout-wrapper clearfix">
+	<a class="scroll-top" href="#"></a>
+	<div class="footer-links">
+		<ul>
+			<li>Проект <a rel="nofollow" href="http://institute.gorshenin.ua">Института Горшенина</a></li>
+			<li><a href="/contacts">Редакция</a></li>
+			<li><a href="/reklama">Реклама на сайте</a></li>
+			<li><a href="/terms">Пользовательское соглашение</a></li>
+		</ul>
+	</div>
+	<div class="about">При полном или частичном воспроизведении материалов прямая гиперссылка на LB.ua обязательна! Перепечатка, копирование, воспроизведение или иное использование материалов, в которых содержится ссылка на агентство "Українськi Новини" и "Украинская Фото Группа" запрещено.</div>
+	<div class="counters">
+        <span><a rel="nofollow" href="http://depositphotos.com/?utm_source=LB&amp;utm_medium=footer&amp;utm_campaign=UA-brand"><img src="/media/1313/news/img/icos/deposit2.png" alt="DepositPhotos" width="143" height="33"></a></span>
+				<!--LiveInternet counter-->
+<span>
+<script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank><img src='https://counter.yadro.ru/hit?t44.11;r"+
+encodeURI(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+encodeURI(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='31' height='31'></a>")
+//-->
+</script>
+</span>
+<!--/LiveInternet-->
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10143123-13']);
+  _gaq.push(['_setDomainName', 'lb.ua']);
+  _gaq.push(['_trackPageview', '/lb/']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '440471506375777');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1"
+         src="https://www.facebook.com/tr?id=440471506375777&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+			</div>
+</div>
+</div>
+
+
+<div class="overlay" id="overlay"></div>
+
+
+<div id="popup_mistake" class="popup do-mistake" url="/core/orphus/">
+	<div class="caption">Найдена ошибка! <div class="close"></div></div>
+	<div class="title">Текст с ошибкой:</div>
+	<div class="text-w-mistake"></div>
+	<div>Ошибка в том, что:</div>
+	<textarea></textarea>
+	<br style="clear: both;" />
+	<a class="button" name="send" href="#">Отправить</a>
+	<a class="no-mistake" name="close" href="#">Ой, это не ошибка!</a>
+</div>
+
+
+<div id="act-login" class="popup do-login">
+	<div class="caption">Вход <div class="close"></div></div>
+	<form action="/core/auth/login" method="post" class="form">
+		<input type="hidden" name="return" value="http://lb.ua/" />
+		<div class="title line">Через социальную сеть:</div>
+		<div class="socials line">
+			<noindex>
+				<div class="social">
+					<a title="vkontakte" href="https://lb.ua/core/oauth/login/?provider=vkontakte&__ref=aHR0cDovL2xiLnVhLw==" rel="nofollow">
+						<div class="icon i-vkontakte"></div>
+						<div class="network">Вконтакте</div>
+					</a>
+				</div>
+				<div class="social">
+					<a title="facebook" href="https://lb.ua/core/oauth/login/?provider=Facebook&__ref=aHR0cDovL2xiLnVhLw==" rel="nofollow">
+						<div class="icon i-facebook"></div>
+						<div class="network">Facebook</div>
+					</a>
+				</div>
+				<div class="social">
+					<a title="odnoklassniki" href="https://lb.ua/core/oauth/login/?provider=Odnoklassniki&__ref=aHR0cDovL2xiLnVhLw==" rel="nofollow">
+						<div class="icon i-odnoklassniki"></div>
+						<div class="network">Одноклассники</div>
+					</a>
+				</div>
+				<div class="social">
+					<a title="google" href="https://lb.ua/core/oauth/login/?provider=Google&__ref=aHR0cDovL2xiLnVhLw==" rel="nofollow">
+						<div class="icon i-google"></div>
+						<div class="network">Google</div>
+					</a>
+				</div>
+				<div class="social">
+					<a title="twitter" href="https://lb.ua/core/oauth/login/?provider=Twitter&__ref=aHR0cDovL2xiLnVhLw==" rel="nofollow">
+						<div class="icon i-twitter"></div>
+						<div class="network">Twitter</div>
+					</a>
+				</div>
+				<div class="social">
+					<a title="linkedin" href="https://lb.ua/core/oauth/login/?provider=LinkedIn&__ref=aHR0cDovL2xiLnVhLw==" rel="nofollow">
+						<div class="icon i-linkedin"></div>
+						<div class="network">LinkedIn</div>
+					</a>
+				</div>
+			</noindex>
+		</div>
+
+		<div class="line">Авторизуясь на сайте вы подтверждаете согласие с <a href="https://lb.ua/user/security">политикой защиты персональных данных</a></div>
+		
+	</form>
+</div>
+
+
+</footer>
+
+</body>
+
+</html>
+<!-- (15:44:16 2019.05.22) -->�те вы подтверждаете согласие с <a href="https://lb.ua/user/security">политикой защиты персональных данных</a></div>
+		
+	</form>
+</div>
+
+
+</footer>
+
+</body>
+
+</html>
+<!-- (15:41:57 2019.05.22) -->pt and server code, using server code written in VB or <b>C#</b> .</span><br></div></div><div class="g"><h3 class="r"><a href="/url?q=https://www.w3schools.com/asp/webpages_examples.asp&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAWCDIwBQ&amp;usg=AOvVaw37t2Ba6Om86nD5ZrW3JVbj">ASP.NET <b>Web</b> Examples in <b>C#</b> and VB - W3Schools</a></h3><div class="s"><div class="hJND5c" style="margin-bottom:2px"><cite>https://www.w3schools.com/asp/<b>webpages</b>_examples.asp</cite><div class="Pj9hGd"><div style="display:inline" onclick="google.sham(this);" aria-expanded="false" aria-haspopup="true" tabindex="0" data-ved="0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDsHQgzMAU"><span class="CiacGf"></span></div><div style="display:none" class="am-dropdown-menu" role="menu" tabindex="-1"><ul><li class="mUpfKd"><a class="imx0m" href="/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:jpEQoG5DBzgJ:https://www.w3schools.com/asp/webpages_examples.asp%252Bc%2523%2Bget%2Bcreate%2Bdate%2Bof%2Bsite%2Bpage%26rlz%3D1C1GCEU_ukUA848UA848%26biw%3D1920%26bih%3D969%26hl%3Duk%26ct%3Dclnk&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAgCDUwBQ&amp;usg=AOvVaw3oak7f_xnMlHcfbNaX4Gte">&#1050;&#1077;&#1096;</a></li><li class="mUpfKd"><a class="imx0m" href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=related:https://www.w3schools.com/asp/webpages_examples.asp+c%23+get+create+date+of+site+page&amp;tbo=1&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAfCDYwBQ">&#1057;&#1093;&#1086;&#1078;&#1110;</a></li></ul></div></div></div><span class="st">NET <b>Web Pages</b> - Examples in <b>C#</b> and VB ... NET <b>Web Pages</b> by <b>C#</b> and Visual <br>
+Basic examples. ... Basic <b>Web Pages</b>. Display <b>Date</b> and Time ... While using this <br>
+<b>site</b>, you agree to <b>have read</b> and accepted our terms of use, cookie and privacy&nbsp;...</span><br></div></div><div class="g"><h3 class="r"><a href="/search?sa=N&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=c%23+get+create+date+of+site+page&amp;tbm=isch&amp;source=univ&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChCwBAg4">&#1047;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1085;&#1103; &#1076;&#1083;&#1103; &#1079;&#1072;&#1087;&#1080;&#1090;&#1091; <b>c# get create date of site page</b></a></h3><br><div><a href="/url?q=https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/creating-a-basic-web-forms-page&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDBbgg6MAY&amp;usg=AOvVaw0kWzViDQ6pWlxPTEnio605"><img style="margin:3px 0;margin-right:6px;padding:0" height="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN19sqax1W_D1VFW8cMRm_Slj32ku3OURyMqyNvYkt1mYiUaly-9mOKijL" title="https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/creating-a-basic-web-forms-page" width="128" alt='&#1056;&#1077;&#1079;&#1091;&#1083;&#1100;&#1090;&#1072;&#1090; &#1087;&#1086;&#1096;&#1091;&#1082;&#1091; &#1079;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1100; &#1079;&#1072; &#1079;&#1072;&#1087;&#1080;&#1090;&#1086;&#1084; "c# get create date of site page"' align="middle"></a><a href="/url?q=https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/creating-a-basic-web-forms-page&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDBbgg8MAc&amp;usg=AOvVaw1ejnyawsi-FstNPdGDX9Fx"><img style="margin:3px 0;margin-right:6px;padding:0" height="88" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1rU-GuxQnuescOJQIMufJKt9Tcec1k0dvBBd_RUx9k4hMkanR8vopozBS" title="https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/creating-a-basic-web-forms-page" width="129" alt='&#1056;&#1077;&#1079;&#1091;&#1083;&#1100;&#1090;&#1072;&#1090; &#1087;&#1086;&#1096;&#1091;&#1082;&#1091; &#1079;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1100; &#1079;&#1072; &#1079;&#1072;&#1087;&#1080;&#1090;&#1086;&#1084; "c# get create date of site page"' align="middle"></a><a href="/url?q=https://docs.microsoft.com/en-us/aspnet/web-forms/overview/older-versions-getting-started/master-pages/creating-a-site-wide-layout-using-master-pages-cs&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDBbgg-MAg&amp;usg=AOvVaw0TfuCZ49xedpheOG2qAaUm"><img style="margin:3px 0;margin-right:6px;padding:0" height="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1eVlwQ0BWldpSCC6c7D6mRSvNs9RFQwZzG4BFXs3wtgZDYq_BMwcgbU" title="https://docs.microsoft.com/en-us/aspnet/web-forms/overview/older-versions-getting-started/master-pages/creating-a-site-wide-layout-using-master-pages-cs" width="127" alt='&#1056;&#1077;&#1079;&#1091;&#1083;&#1100;&#1090;&#1072;&#1090; &#1087;&#1086;&#1096;&#1091;&#1082;&#1091; &#1079;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1100; &#1079;&#1072; &#1079;&#1072;&#1087;&#1080;&#1090;&#1086;&#1084; "c# get create date of site page"' align="middle"></a><a href="/url?q=https://docs.microsoft.com/en-us/aspnet/web-forms/overview/older-versions-getting-started/master-pages/creating-a-site-wide-layout-using-master-pages-cs&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDBbghAMAk&amp;usg=AOvVaw2Qo-bSUGXyyHnJ_VRlBViH"><img style="margin:3px 0;margin-right:6px;padding:0" height="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMsAeXJB95E6rntt8kqrBsd5695Q_ESzXBk2DjwmDsUegeHdF7DDMTly8" title="https://docs.microsoft.com/en-us/aspnet/web-forms/overview/older-versions-getting-started/master-pages/creating-a-site-wide-layout-using-master-pages-cs" width="123" alt='&#1056;&#1077;&#1079;&#1091;&#1083;&#1100;&#1090;&#1072;&#1090; &#1087;&#1086;&#1096;&#1091;&#1082;&#1091; &#1079;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1100; &#1079;&#1072; &#1079;&#1072;&#1087;&#1080;&#1090;&#1086;&#1084; "c# get create date of site page"' align="middle"></a></div></div><div class="g"><h3 class="r"><a href="/url?q=http://www.doxygen.nl/&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAWCEIwCg&amp;usg=AOvVaw3AKxxIM0_aj280N1k-BT05">Doxygen: Main <b>Page</b></a></h3><div class="s"><div class="hJND5c" style="margin-bottom:2px"><cite>www.doxygen.nl/</cite><div class="Pj9hGd"><div style="display:inline" onclick="google.sham(this);" aria-expanded="false" aria-haspopup="true" tabindex="0" data-ved="0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDsHQhDMAo"><span class="CiacGf"></span></div><div style="display:none" class="am-dropdown-menu" role="menu" tabindex="-1"><ul><li class="mUpfKd"><a class="imx0m" href="/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:eRLP1laXhUYJ:http://www.doxygen.nl/%252Bc%2523%2Bget%2Bcreate%2Bdate%2Bof%2Bsite%2Bpage%26rlz%3D1C1GCEU_ukUA848UA848%26biw%3D1920%26bih%3D969%26hl%3Duk%26ct%3Dclnk&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAgCEUwCg&amp;usg=AOvVaw3TtsRYHWUQkp4FaU17eZkd">&#1050;&#1077;&#1096;</a></li><li class="mUpfKd"><a class="imx0m" href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=related:www.doxygen.nl/+c%23+get+create+date+of+site+page&amp;tbo=1&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAfCEYwCg">&#1057;&#1093;&#1086;&#1078;&#1110;</a></li></ul></div></div></div><span class="st"><b>Generate</b> documentation from source code. Doxygen is the de facto standard tool <br>
+for generating documentation from annotated C++ sources, but it also supports&nbsp;...</span><br></div></div><div class="g"><h3 class="r"><a href="/url?q=https://docs.mongodb.com/ecosystem/drivers/csharp/&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAWCEgwCw&amp;usg=AOvVaw12SIyPz577aJjFdZdaaeWe"><b>C#</b> and .NET MongoDB Driver &#8212; MongoDB Ecosystem</a></h3><div class="s"><div class="hJND5c" style="margin-bottom:2px"><cite>https://docs.mongodb.com/ecosystem/drivers/csharp/</cite><div class="Pj9hGd"><div style="display:inline" onclick="google.sham(this);" aria-expanded="false" aria-haspopup="true" tabindex="0" data-ved="0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDsHQhJMAs"><span class="CiacGf"></span></div><div style="display:none" class="am-dropdown-menu" role="menu" tabindex="-1"><ul><li class="mUpfKd"><a class="imx0m" href="/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:5K5NcwWBiykJ:https://docs.mongodb.com/ecosystem/drivers/csharp/%252Bc%2523%2Bget%2Bcreate%2Bdate%2Bof%2Bsite%2Bpage%26rlz%3D1C1GCEU_ukUA848UA848%26biw%3D1920%26bih%3D969%26hl%3Duk%26ct%3Dclnk&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAgCEswCw&amp;usg=AOvVaw1Ug_mlp2IquHeHAVTN5mXR">&#1050;&#1077;&#1096;</a></li><li class="mUpfKd"><a class="imx0m" href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=related:https://docs.mongodb.com/ecosystem/drivers/csharp/+c%23+get+create+date+of+site+page&amp;tbo=1&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAfCEwwCw">&#1057;&#1093;&#1086;&#1078;&#1110;</a></li></ul></div></div></div><span class="st"><b>C#</b> and .NET MongoDB Driver�. On this <b>page</b>. Driver Features; Download/<br>
+Upgrade; Compatibility ... Users can use the new core library to <b>build</b> alternative <br>
+or experimental high-level APIs. ... For more information, see <b>Getting</b> Started.</span><br></div></div><div class="g"><h3 class="r"><a href="/url?q=https://servicestack.net/&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAWCE4wDA&amp;usg=AOvVaw0x61mOQM8w4pseRsY8abSH">Simple and fast .NET <b>Web</b> Services framework</a></h3><div class="s"><div class="hJND5c" style="margin-bottom:2px"><cite>https://servicestack.net/</cite><div class="Pj9hGd"><div style="display:inline" onclick="google.sham(this);" aria-expanded="false" aria-haspopup="true" tabindex="0" data-ved="0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDsHQhPMAw"><span class="CiacGf"></span></div><div style="display:none" class="am-dropdown-menu" role="menu" tabindex="-1"><ul><li class="mUpfKd"><a class="imx0m" href="/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:SQUXaqytXMgJ:https://servicestack.net/%252Bc%2523%2Bget%2Bcreate%2Bdate%2Bof%2Bsite%2Bpage%26rlz%3D1C1GCEU_ukUA848UA848%26biw%3D1920%26bih%3D969%26hl%3Duk%26ct%3Dclnk&amp;sa=U&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAgCFEwDA&amp;usg=AOvVaw1VGxTO5MgI-qgHEcAArejA">&#1050;&#1077;&#1096;</a></li><li class="mUpfKd"><a class="imx0m" href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=related:https://servicestack.net/+c%23+get+create+date+of+site+page&amp;tbo=1&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChAfCFIwDA">&#1057;&#1093;&#1086;&#1078;&#1110;</a></li></ul></div></div></div><span class="st">I really <b>find</b> it much easier to understand than WebAPI/ASP.NET. James <br>
+McLachlan, @jamespmclachlan. With @ServiceStack I&#39;ve left <b>web</b> forms, asp.net <br>
+MVC and <b>web</b> API behind in the debris pile. ..... NET&#39;s leading <b>C#</b> Client ... <b>Build</b> <br>
+single-<b>page web</b> applications using frameworks like AngularJS and ServiceStack <br>
+that&nbsp;...</span><br></div></div></ol></div></div></div><div style="clear:both;margin-bottom:17px;overflow:hidden"><div style="font-size:16px;padding:0 8px 1px">&#1055;&#1086;&#1096;&#1091;&#1082;&#1086;&#1074;&#1110; &#1079;&#1072;&#1087;&#1080;&#1090;&#1080;, &#1087;&#1086;&#1074;&#8217;&#1103;&#1079;&#1072;&#1085;&#1110; &#1079; "<b>c# get create date of site page</b>"</div><table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=c%23+core+web+api&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghVKAA">c# <b>core web api</b></a></p></td><td valign="top" style="padding-left:10px"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=asp+net+create+api&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghWKAE"><b>asp net</b> create <b>api</b></a></p></td></tr><tr><td valign="top"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=api+controller+example+c%23&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghXKAI"><b>api controller example</b> c#</a></p></td><td valign="top" style="padding-left:10px"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=iactionresult+web+api&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghYKAM"><b>iactionresult web api</b></a></p></td></tr><tr><td valign="top"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=.net+core+web+api+example&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghZKAQ"><b>.net core web api example</b></a></p></td><td valign="top" style="padding-left:10px"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=asp+net+core+2.0+web+api&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghaKAU"><b>asp net core 2.0 web api</b></a></p></td></tr><tr><td valign="top"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=.net+core+2.0+web+api&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghbKAY"><b>.net core 2.0 web api</b></a></p></td><td valign="top" style="padding-left:10px"><p class="aw5cc" style="margin:3px 8px"><a href="/search?rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;q=asp+net+core+add+web+api&amp;sa=X&amp;ved=0ahUKEwiMv_Wq1qniAhUMvKwKHRp7C0Q4ChDVAghcKAc"><b>asp net core add web api</b></a></p></td></tr></table></div></div><div id="foot"><table align="center" border="0" cellpadding="0" cellspacing="0" id="nav"><tr valign="top"><td align="left" class="b"><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=0&amp;sa=N"><span class="csb" style="background-position:0 0;float:right;width:53px"></span><span style="display:block;margin-right:35px;clear:right">&#1053;&#1072;&#1079;&#1072;&#1076;</span></a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=0&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>1</a></td><td><span class="csb" style="background-position:-53px 0;width:20px"></span><b>2</b></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=20&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>3</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=30&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>4</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=40&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>5</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=50&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>6</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=60&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>7</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=70&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>8</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=80&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>9</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=90&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>10</a></td><td><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=100&amp;sa=N"><span class="csb" style="background-position:-74px 0;width:20px"></span>11</a></td><td class="b" style="text-align:left"><a class="fl" href="/search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns&amp;ei=JWPiXMyYKIz4sgWa9q2gBA&amp;start=20&amp;sa=N" style="text-align:left"><span class="csb" style="background-position:-96px 0;width:71px"></span><span style="display:block;margin-left:53px">&#1059;&#1087;&#1077;&#1088;&#1077;&#1076;</span></a></td></tr></table><p class="A8ul6" id="bfl" style="margin:19px 0 0;text-align:center"><a href="/advanced_search?q=c%23+get+create+date+of+site+page&amp;rlz=1C1GCEU_ukUA848UA848&amp;biw=1920&amp;bih=969&amp;ie=UTF-8&amp;prmd=ivns">&#1056;&#1086;&#1079;&#1096;&#1080;&#1088;&#1077;&#1085;&#1080;&#1081; &#1087;&#1086;&#1096;&#1091;&#1082;</a><a href="/support/?hl=uk">&#1055;&#1086;&#1088;&#1072;&#1076;&#1080; &#1097;&#1086;&#1076;&#1086; &#1087;&#1086;&#1096;&#1091;&#1082;&#1091;</a> <a href="/tools/feedback/survey/html?productId=196&amp;query=c%23+get+create+date+of+site+page&amp;hl=uk">&#1053;&#1072;&#1076;&#1110;&#1089;&#1083;&#1072;&#1090;&#1080; &#1074;&#1110;&#1076;&#1075;&#1091;&#1082;</a></p><div class="A8ul6" id="fll" style="margin:19px auto 19px auto;text-align:center"><a href="/">&#1044;&#1086;&#1084;&#1072;&#1096;&#1085;&#1103; &#1089;&#1090;&#1086;&#1088;&#1110;&#1085;&#1082;&#1072;&nbsp;Google</a> <a href="/intl/uk/ads">&#1056;&#1077;&#1082;&#1083;&#1072;&#1084;&#1085;&#1110;&nbsp;&#1087;&#1088;&#1086;&#1075;&#1088;&#1072;&#1084;&#1080;</a> <a href="/intl/uk/policies/privacy/">&#1050;&#1086;&#1085;&#1092;&#1110;&#1076;&#1077;&#1085;&#1094;&#1110;&#1081;&#1085;&#1110;&#1089;&#1090;&#1100;</a> <a href="/intl/uk/policies/terms/">&#1059;&#1084;&#1086;&#1074;&#1080;</a> <a href="/intl/uk/about.html">&#1055;&#1088;&#1086; Google</a></div></div></td><td id="rhs_block" valign="top"></td></tr></tbody></table><script type="text/javascript" nonce="/M4M34BLKgnGg02Q57vPtA==">(function(){var eventid='JWPiXMyYKIz4sgWa9q2gBA';google.kEI = eventid;})();</script><script src="/xjs/_/js/k=xjs.hp.en.obK9NV8tyQs.O/m=sb_he,d/d=1/rs=ACT90oFHfbf0mm_6hrObde70noXPizpjQQ" nonce="/M4M34BLKgnGg02Q57vPtA=="></script><script type="text/javascript" nonce="/M4M34BLKgnGg02Q57vPtA==">google.ac&&google.ac.c({"agen":true,"cgen":true,"client":"heirloom-serp","dh":true,"dhqt":true,"ds":"","ffql":"en","fl":true,"host":"google.com","isbh":28,"jsonp":true,"msgs":{"cibl":"&#1054;&#1095;&#1080;&#1089;&#1090;&#1080;&#1090;&#1080; &#1087;&#1086;&#1096;&#1091;&#1082;&#1086;&#1074;&#1080;&#1081; &#1079;&#1072;&#1087;&#1080;&#1090;","dym":"&#1052;&#1086;&#1078;&#1083;&#1080;&#1074;&#1086;, &#1074;&#1080; &#1084;&#1072;&#1083;&#1080; &#1085;&#1072; &#1091;&#1074;&#1072;&#1079;&#1110;:","lcky":"&#1052;&#1077;&#1085;&#1110; &#1087;&#1086;&#1097;&#1072;&#1089;&#1090;&#1080;&#1090;&#1100;","lml":"&#1044;&#1086;&#1082;&#1083;&#1072;&#1076;&#1085;&#1110;&#1096;&#1077;","oskt":"&#1058;&#1088;&#1072;&#1085;&#1089;&#1083;&#1110;&#1090;&#1077;&#1088;&#1072;&#1094;&#1110;&#1103;","psrc":"&#1062;&#1077;&#1081; &#1087;&#1086;&#1096;&#1091;&#1082; &#1074;&#1080;&#1076;&#1072;&#1083;&#1077;&#1085;&#1086; &#1079; &#1074;&#1072;&#1096;&#1086;&#1111; \u003Ca href=\"/history\"\u003E&#1074;&#1077;&#1073;-&#1110;&#1089;&#1090;&#1086;&#1088;&#1110;&#1111;\u003C/a\u003E","psrl":"&#1042;&#1080;&#1076;&#1072;&#1083;&#1080;&#1090;&#1080;","sbit":"&#1055;&#1086;&#1096;&#1091;&#1082; &#1079;&#1072; &#1079;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1085;&#1103;&#1084;","srch":"&#1055;&#1086;&#1096;&#1091;&#1082; Google"},"ovr":{},"pq":"c# get create date of site page","refpd":true,"rfs":["c# core web api","api controller example c#",".net core web api example",".net core 2.0 web api","asp net create api","iactionresult web api","asp net core 2.0 web api","asp net core add web api"],"sbpl":24,"sbpr":24,"scd":10,"sce":5,"stok":"MLcN-NA20d5fzftQBUF1Zx-N6-E","uhde":false})</script><script nonce="/M4M34BLKgnGg02Q57vPtA==">(function(){window.google.cdo={height:969,width:1920};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();</script></body></html>

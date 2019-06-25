@@ -1,0 +1,13 @@
+D:\Programs\VS Project\ParseProject\bin\Debug\ParseProject.exe.config
+D:\Programs\VS Project\ParseProject\bin\Debug\ParseProject.exe
+D:\Programs\VS Project\ParseProject\bin\Debug\ParseProject.pdb
+D:\Programs\VS Project\ParseProject\bin\Debug\HtmlAgilityPack.dll
+D:\Programs\VS Project\ParseProject\bin\Debug\HtmlAgilityPack.pdb
+D:\Programs\VS Project\ParseProject\bin\Debug\HtmlAgilityPack.xml
+D:\Programs\VS Project\ParseProject\obj\Debug\ParseProject.csprojAssemblyReference.cache
+D:\Programs\VS Project\ParseProject\obj\Debug\ParseProject.csproj.CoreCompileInputs.cache
+D:\Programs\VS Project\ParseProject\obj\Debug\ParseProject.csproj.CopyComplete
+D:\Programs\VS Project\ParseProject\obj\Debug\ParseProject.exe
+D:\Programs\VS Project\ParseProject\obj\Debug\ParseProject.pdb
+D:\Programs\VS Project\ParseProject\bin\Debug\ISiteInformationGet.dll
+D:\Programs\VS Project\ParseProject\bin\Debug\ISiteInformationGet.pdb

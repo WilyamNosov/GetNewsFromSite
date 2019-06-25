@@ -1,0 +1,1089 @@
+<!DOCTYPE html><html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="theme-color" content="#ffffff">
+<script>
+        //$(function() {
+        ___width_page = screen.width;
+        //alert(___width_page);
+        if (___width_page < 640){
+            document.write("<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />");
+        }
+        //});
+    </script>
+<link rel="manifest" href="/manifest.json">
+<meta property="og:title" content="Последние новости. Самые свежие новости мира за 24.6.2019. Смотреть последние свежие новости дня за последний час | Телеграф - Страница 6" />
+<meta property="og:url" content="https://telegraf.com.ua/date/2019/6/24/page/6/" />
+<meta property="og:image" content="https://telegraf.com.ua/i/touch-icon-iphone-114.png" />
+<meta property="og:description" content="Страница 6 | Последние свежие новости - новостного портала Телеграф. Смотреть последние и всегда свежие новости Украины и мира за день, час или последнюю неделю." />
+<meta property="og:site_name" content="Телеграф" />
+<TITLE>Последние новости. Самые свежие новости мира за 24.6.2019. Смотреть последние свежие новости дня за последний час | Телеграф - Страница 6</TITLE>
+<meta name="description" content="Страница 6 | Последние свежие новости - новостного портала Телеграф. Смотреть последние и всегда свежие новости Украины и мира за день, час или последнюю неделю." />
+<meta name="keywords" content="последние новости, свежие новости, свежие новости мира, последние свежие новости, новости мира 2013, свежие новости дня" />
+<link rel="canonical" href="https://telegraf.com.ua/date/2019/6/24/" />
+<style>
+        #mobile-content-show{
+            display: none;
+        }
+    </style>
+
+<link rel="stylesheet" media="screen and (max-width: 640px)" href="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/jquery.mobile-1.4.5.min.css" type="text/css" />
+<link rel="stylesheet" media="screen and (max-width: 640px)" href="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/style.css" type="text/css" />
+
+<link rel="stylesheet" media="screen and (min-width: 641px)" href="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/css/css.php" type="text/css" />
+<script src="//telegraf.com.ua/wp-content/themes/news_ru/js/jquery.js"></script>
+<style>
+
+            @media screen and (max-width: 640px){
+                #mobile-content-show{
+                    display: block;
+                }
+                #mainWrapper{
+                    display: none!important;
+                }
+                #footer.footer-desktop{
+                    display: none!important;
+                }
+                #header-desk.header-desktop{
+                    display: none!important;
+                }
+                #soc_popup{
+                    display: none!important;
+                }
+
+            }
+        </style>
+<script>
+            $(document).on("pageshow", "[data-role='page']", function () {
+                $('div.ui-loader').remove();
+            });
+            $(document).bind("mobileinit", function () {
+
+                $.mobile.ajaxEnabled = false;
+
+            });
+            var __page = 1;
+            var flag = true;
+            $( window ).resize(function() {
+                if ($(window).width() < 640){
+
+                    $(document).ready(function(){
+                        _ajax_insert = true;
+                        if ($('#ajax-content').hasClass('insert-mob-content')){
+                            _ajax_insert = false;
+                        }
+
+                        if (_ajax_insert){
+
+                            $.ajax({
+                                url: '//telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/ajax/ajax-content.php',
+                                type: 'GET',
+                                cache: false,
+                                dataType: 'jsonp',
+                                jsonpCallback: 'main',
+                                crossDomain: true,
+                                data: {
+                                    loading: 'cat',
+                                    id: 1,
+                                    page: __page
+                                },
+                                success:function(data){
+
+
+                                    if (data != ''){
+                                        jQuery('#ajax-content').removeClass('loading');
+                                        jQuery('#ajax-content').addClass('insert-mob-content');
+                                        jQuery('#ajax-content').html(data[0]);
+
+                                        __page++;
+
+                                    }
+
+                                }
+
+
+                            })
+
+                        }
+
+                    })
+
+                }
+
+            }).resize();
+
+            $(function (){
+
+
+                var renova = $('#footer-insert');
+
+                document.onscroll = function (){
+                    if ($(window).width() < 640){
+
+
+                        var renova_offset = renova.offset().top;
+                        var renova_bottom = renova_offset + renova.height() - 200;
+                        scroll_top = $(this).scrollTop();
+                        scroll_bottom = scroll_top + $(window).height();
+
+                        if ( (renova_bottom <= scroll_bottom) && (renova_offset >= scroll_top) && flag){
+
+
+
+                            flag = false;
+                            $.ajax({
+                                url: '//telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/ajax/ajax-content.php',
+                                type: 'GET',
+                                cache: false,
+                                dataType: 'jsonp',
+                                jsonpCallback: 'main',
+                                data: {
+                                    loading: 'cat',
+                                    id: 1,
+                                    page: __page
+                                },
+                                beforeSend: function (){
+                                    $('#footer-insert').addClass('loading');
+                                },
+                                success:function(data){
+                                    if (data != ''){
+                                        $('#footer-insert').removeClass('loading');
+                                        $('#ajax-content').append(data[0]);
+
+                                        flag = true;
+                                        __page++;
+
+                                    }
+                                }
+                            })
+
+
+
+
+                        }
+
+                    }
+
+                };
+
+
+            });
+
+        </script>
+<script src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/js/jquery.bxslider.min.js"></script>
+ <script src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/js/script.js"></script>
+<script src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/js/jquery.scrollbar.js"></script>
+<script src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/js/smartbanner1.js"></script>
+<script src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/js/global_v42.js"></script>
+<link rel="shortcut icon" href="https://telegraf.com.ua/favicon_32.ico" type="image/x-icon" />
+<meta name="apple-mobile-web-app-title" content="Телеграф" />
+<link rel="apple-touch-icon" href="https://telegraf.com.ua/i/touch-icon-iphone-57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://telegraf.com.ua/i/touch-icon-iphone-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://telegraf.com.ua/i/touch-icon-iphone-114.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://telegraf.com.ua/i/touch-icon-iphone.png" />
+<meta name="google-play-app" content="app-id=ua.com.Telegraf" />
+<meta name="apple-itunes-app" content="app-id=705915891" />
+<meta property="fb:app_id" content="516378252047196" />
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-7336489842817310",
+            enable_page_level_ads: true
+        });
+    </script>
+<script>
+        var _url = "//telegraf.com.ua/wp-content/themes/news_ru";
+    </script>
+
+<script>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-33689478-1']);
+        _gaq.push(['_setDomainName', '.telegraf.com.ua']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+<script>
+        (function (tos) {
+            window.setTimeout(function () {
+                tos = (function (t) {
+                    return t[0] == 50 ? (parseInt(t[1]) + 1) + ':00' : (t[1] || '0') + ':' + (parseInt(t[0]) + 10);
+                })(tos.split(':').reverse());
+                window.pageTracker ? pageTracker._trackEvent('Time', 'Log', tos) : _gaq.push(['_trackEvent', 'Time', 'Log', tos]);
+            }, 20000);
+        })('00');
+    </script>
+<script src="https://telegraf.com.ua/client-request.js"></script>
+<meta name="application-name" content="Telegraf.com.ua" />
+<meta name="referrer" content="unsafe-url">
+<script type="application/ld+json">
+        {
+            "@context" : "http://schema.org",
+            "@type" : "Organization",
+            "name" : "Телеграф",
+            "url" : "https://telegraf.com.ua/",
+            "logo": "https://telegraf.com.ua/i/touch-icon-iphone-114.png",
+            "foundingDate": "2012",
+            "sameAs" : [
+                "https://www.facebook.com/telegraf.com.ua",
+                "https://twitter.com/telegrafcomua",
+                "https://t.me/telegrafcomua"
+            ]
+        }
+    </script>
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://telegraf.com.ua/",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://telegraf.com.ua/?s={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script>
+</head>
+<body>
+
+<script>
+    _atrk_opts = { atrk_acct:"3l1ph1a0k7000n", domain:"telegraf.com.ua",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=3l1ph1a0k7000n" style="display:none" height="1" width="1" alt="Alexa" /></noscript>
+
+<script>
+    jQuery(function (){
+        jQuery('#insert-mob-footer').load(_url+'/ajax/ajax-mob-footer.php');
+    });
+</script>
+<div id="header-desk" class="header-desktop deafult-cat">
+<div class="top">
+<p class="page_title"><strong></strong></p>
+<div class="logo">
+<a href="/" onclick="_gaq.push(['_trackEvent', 'header', 'click', 'logo'])" title="Новости Украины и мира">
+<p>ТЕЛЕГРАФ</p>
+</a>
+<strong>Новости Украины и мира</strong>
+</div>
+<div class="h_center">
+<div class="h_right">
+<div class="soc_links">
+<a class="fb" href="https://www.facebook.com/telegraf.com.ua" target="_blank" onclick="_gaq.push(['_trackEvent', 'header', 'click', 'facebook'])">Телеграф в Facebook</a>
+<a class="tw" href="https://twitter.com/telegrafcomua" target="_blank" onclick="_gaq.push(['_trackEvent', 'header', 'click', 'twitter'])">Телеграф в Twitter</a>
+<a class="gp" href="https://plus.google.com/112249398252252334504" target="_blank" onclick="_gaq.push(['_trackEvent', 'header', 'click', 'google+'])">Телеграф на Google+</a>
+<a class="rss" href="https://telegraf.com.ua/yandex-feed/" target="_blank" onclick="_gaq.push(['_trackEvent', 'header', 'click', 'rss'])">Телеграф RSS</a>
+</div>
+<div class="soc-app">
+<a href="https://telegraf.com.ua/app/">Скачать</a>
+<a class="icon-ios" href="https://itunes.apple.com/app/telegraf-com-ua/id705915891" target="_blank" onclick="_gaq.push(['_trackEvent', 'header', 'click', 'app_store'])">App Store</a>
+<a class="icon-android" href="https://play.google.com/store/apps/details?id=ua.com.Telegraf" target="_blank" onclick="_gaq.push(['_trackEvent', 'header', 'click', 'google play'])">Play Google Market</a>
+</div>
+</div>
+<div class="links">
+Понедельник, 24.06.2019 <span class="h_mid_line">|</span>
+<a target="_blank" rel="nofollow" href="/user-page" class="l_2">регистрация</a> <span class="h_mid_line">|</span> <span class="l_3">
+<span id="ligaWeather"><a href="https://sinoptik.ua/погода-киев" target="_blank" rel="nofollow">Погода в Киеве</a></span>
+</span>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="sub_header_menu">
+<div class="sub_header_menu_block">
+</div>
+</div>
+<div id="navigation">
+<div id="layerOne">
+<div class="layerOne_block">
+<ul id="root">
+<li class="navLink highlight" id="activeTab">
+<a href="/" class="mainNav"><span>Главная</span></a>
+<ul class="level2 subStay sub_main">
+<li><a href="https://telegraf.com.ua/nauka/">Наука</a></li>
+<li><a href="https://telegraf.com.ua/tehnologii/">Технологии</a></li>
+<li><a href="https://telegraf.com.ua/puteshestviya/">Путешествия</a></li>
+<li><a href="https://telegraf.com.ua/ekologiya/">Экология</a></li>
+<li><a href="https://telegraf.com.ua/goroskop/">Гороскоп</a></li>
+<li><a href="https://telegraf.com.ua/kinograf/">Онлайн кино</a></li>
+<li><a href="https://telegraf.com.ua/anekdots/">Анекдоты</a></li>
+</ul>
+</li>
+<li class="navLink">
+<a href="https://telegraf.com.ua/ukraina/" class="mainNav"><span>Украина</span></a>
+</li>
+<li class="navLink">
+<a href="https://telegraf.com.ua/biznes/" class="mainNav"><span>Бизнес</span></a>
+</li>
+<li class="navLink">
+<a href="https://telegraf.com.ua/mir/" class="mainNav"><span>Мир</span></a>
+</li>
+<li class="navLink">
+<a href="https://telegraf.com.ua/sport-cat/" class="mainNav"><span>Спорт</span></a>
+</li>
+<li class="navLink">
+<a href="https://telegraf.com.ua/kultura/" class="mainNav"><span>Культура</span></a>
+</li>
+<li class="navLink">
+<a href="https://telegraf.com.ua/zhizn/" class="mainNav"><span>Жизнь</span></a>
+</li>
+<li>
+<div id="all-cat">
+<div class="show-all-cat">
+<div id="insert-all-cat"></div>
+<script>
+                                    jQuery(function (){
+                                        jQuery('#insert-all-cat').load(_url+'/new_theme/ajax/ajax-all-cat.php');
+                                    });
+                                </script>
+</div>
+</div>
+</li>
+</ul>
+<ul class="right_links">
+<li class="t_all-cat">
+<a href="https://telegraf.com.ua/kurs-valute/">Курс Валют</a>
+</li>
+<li class="t-photogal"><a href="https://telegraf.com.ua/control/photogallery/">Телеграф Фото</a></li>
+<li class="videogal"><a href="https://telegraf.com.ua/control/video/">Телеграф Видео</a></li>
+<li class="tv-prog"><a href="https://telegraf.com.ua/tv/">Телеграф ТВ-программа</a></li>
+</ul>
+<div id="searchInMenu">
+<form role="search" method="get" id="searchform" action="https://telegraf.com.ua/">
+<input type="text" value="" name="s" id="s" /><input type="submit" id="searchsubmit" value="" /></form>
+</div>
+</div>
+</div>
+<div class="navigation-shadow"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div id="mobile-content-show" class="ui-mobile ui-mobile-viewport ui-overlay-a"><div data-role="page" id="t-page" data-url="t-page" tabindex="0" class="ui-page ui-page-theme-a ui-page-header-fixed ui-page-active" style="padding-top: 41px;"><div data-role="panel" id="menu-telegraf" data-display="overlay" class="ui-panel ui-panel-position-left ui-panel-display-overlay ui-panel-closed ui-body-inherit ui-panel-animate"></div>
+<script>
+            $('#menu-telegraf').load('//telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/ajax/ajax-menu.php');
+        </script>
+<div data-role="header" data-position="fixed" id="header" role="banner" class="ui-header ui-bar-inherit ui-header-fixed slidedown">
+<a href="#menu-telegraf" class="ui-btn-left ui-btn ui-icon-my-bars ui-btn-icon-notext ui-corner-all" data-role="button" role="button"></a><span class="ui-title"><a data-ajax="false" href="/" class="ui-link"><img src="https://telegraf.com.ua/wp-content/themes/news_ru/new_theme/mob/images/LOGO2.png" alt="Телеграф" width="164" height="27"></a></span><a href="#" class="ui-btn-right ui-btn ui-icon-my-refresh ui-btn-icon-notext ui-corner-all" id="reload-page" data-role="button" role="button"></a>
+</div>
+<div class="ui-content"><div id="ajax-content" class="loading"></div></div>
+<div id="footer-insert"></div>
+</div></div>
+<div id="mainWrapper">
+<div class="wrapper">
+<div class="footerTitleTop">Вверх</div>
+<div id="Mcontent-block">
+<div class="content">
+<script type="text/javascript">
+        if (screen.width < 645){
+            
+        $(function (){
+            $('a').each(function(){
+                $(this).removeAttr('target');
+            })
+        $('#insert-mob-footer').load(_url+'/ajax/ajax-mob-footer.php');
+        
+        });
+            
+        }
+        </script>
+<div class="inner-mobile-header">
+<div class="outer-mobile-header">
+<a href="/"><img src="//telegraf.com.ua/wp-content/themes/news_ru/images/mlogo-new-mob.png" alt="Мобильная версия" /></a>
+</div>
+</div>
+<div class="news_list">
+<div class="main_title"><h1>Все новости за сегодня</h1></div>
+<div class="Nitem">
+<a href="https://telegraf.com.ua/kurezy/5063701-milyie-i-zabavnyie-zhivotnyie-smogut-vas-zaryadit-pozitovom-na-vsyu-noch.html"><img width="294" height="184" src="https://telegraf.com.ua/files/2019/06/0000000000000000000000000000000000000000000000000-294x184.jpg" alt="Новости: Милые и забавные животные смогут вас зарядить позитовом на всю ночь" /></a>
+<div class="right">
+<div class="info">
+<div class="arr"></div>
+<div class="time">2:11</div>
+</div>
+<a href="https://telegraf.com.ua/kurezy/5063701-milyie-i-zabavnyie-zhivotnyie-smogut-vas-zaryadit-pozitovom-na-vsyu-noch.html">Милые и забавные животные смогут вас зарядить позитовом на всю ночь</a>
+<p>Смешная подборка снимков, которая заставит вас долго улыбаться.</p>
+</div>
+</div>
+<div class="Nitem">
+<a href="https://telegraf.com.ua/ukraina/politika/5064117-tsik-otkazala-v-registratsii-kandidatam-ot-partii-ruh-novyih-sil-saakashvili.html"><img width="294" height="184" src="https://telegraf.com.ua/files/2019/06/Mihail-Saakashvili-294x184.jpg" alt="Новости: ЦИК отказала в регистрации кандидатам от партии &quot;Рух новых сил&quot; Саакашвили" /></a>
+<div class="right">
+<div class="info">
+<div class="arr"></div>
+<div class="time">1:50</div>
+</div>
+<a href="https://telegraf.com.ua/ukraina/politika/5064117-tsik-otkazala-v-registratsii-kandidatam-ot-partii-ruh-novyih-sil-saakashvili.html">ЦИК отказала в регистрации кандидатам от партии "Рух новых сил" Саакашвили</a>
+<p>Внеочередные выборы народных депутатов Украины президент назначил указом на 21 июля 2019 года.</p>
+</div>
+</div>
+<div class="Nitem">
+<a href="https://telegraf.com.ua/zhizn/zdorove/5064123-vrachi-rasskazali-komu-kategoricheski-nelzya-est-ovsyanku.html"><img width="294" height="184" src="https://telegraf.com.ua/files/2019/06/oatmeal-3171723_960_7201-294x184.jpg" alt="Новости: Врачи рассказали, кому категорически нельзя есть овсянку" /></a>
+<div class="right">
+<div class="info">
+<div class="arr"></div>
+<div class="time">1:32</div>
+</div>
+<a href="https://telegraf.com.ua/zhizn/zdorove/5064123-vrachi-rasskazali-komu-kategoricheski-nelzya-est-ovsyanku.html">Врачи рассказали, кому категорически нельзя есть овсянку</a>
+<p>Все привыкли к тому, что овсянка на завтрак — это правильно, вкусно, а главное — очень полезно.</p>
+</div>
+</div>
+<div class="Nitem">
+<a href="https://telegraf.com.ua/dom-i-sad/5063608-sovremennyie-kuhni-kotoryie-ochen-ponravyatsya-kazhdoy-hozyayke-foto.html"><img width="294" height="184" src="https://telegraf.com.ua/files/2019/06/00000000000000000000000000000000000000000000000000000000000000001-294x184.jpg" alt="Новости: Современные кухни, которые очень понравятся каждой хозяйке (Фото)" /></a>
+<div class="right">
+ <div class="info">
+<div class="arr"></div>
+<div class="time">1:12</div>
+</div>
+<a href="https://telegraf.com.ua/dom-i-sad/5063608-sovremennyie-kuhni-kotoryie-ochen-ponravyatsya-kazhdoy-hozyayke-foto.html">Современные кухни, которые очень понравятся каждой хозяйке (Фото)</a>
+<p>Красивые кухни, на которых приятно готовить и просто проводить время.</p>
+</div>
+</div>
+<div class="Nitem">
+<a href="https://telegraf.com.ua/kurezy/5063843-vesele-na-vsyu-noch-umoritelnyie-kartinki-s-podpisyami.html"><img width="294" height="184" src="https://telegraf.com.ua/files/2019/06/0000000000000000000001-294x184.jpg" alt="Новости: Веселье на всю ночь: уморительные картинки с подписями" /></a>
+<div class="right">
+<div class="info">
+<div class="arr"></div>
+<div class="time">0:54</div>
+</div>
+<a href="https://telegraf.com.ua/kurezy/5063843-vesele-na-vsyu-noch-umoritelnyie-kartinki-s-podpisyami.html">Веселье на всю ночь: уморительные картинки с подписями</a>
+<p>Забавная подборка картинок с подписями.</p>
+</div>
+</div>
+<div class="Nitem">
+<a href="https://telegraf.com.ua/zhizn/zdorove/5062770-chem-perekusit-poleznyie-produktyi-kotoryimi-mozhno-pitatsya-v-ofise.html"><img width="294" height="184" src="https://telegraf.com.ua/files/2019/06/perekus_1-294x184.jpg" alt="Новости: Чем перекусить: полезные продукты, которыми можно питаться в офисе" /></a>
+<div class="right">
+<div class="info">
+<div class="arr"></div>
+<div class="time">0:35</div>
+</div>
+<a href="https://telegraf.com.ua/zhizn/zdorove/5062770-chem-perekusit-poleznyie-produktyi-kotoryimi-mozhno-pitatsya-v-ofise.html">Чем перекусить: полезные продукты, которыми можно питаться в офисе</a>
+<p>Рассказываем, какие продукты питания должны присутствовать в вашем полднике, чтобы не навредить фигуре и утолить голод!</p>
+</div>
+</div>
+<div class="Nitem">
+<a href="https://telegraf.com.ua/ukraina/politika/5064121-timoshenko-novaya-koalitsiya-deystviy-dolzhna-dat-rezultat-za-100-dney.html"><img width="294" height="184" src="https://telegraf.com.ua/files/2019/06/1002MainC861-294x184.jpg" alt="Новости: Тимошенко: новая коалиция действий должна дать результат за 100 дней" /></a>
+<div class="right">
+<div class="info">
+<div class="arr"></div>
+<div class="time">0:16</div>
+</div>
+<a href="https://telegraf.com.ua/ukraina/politika/5064121-timoshenko-novaya-koalitsiya-deystviy-dolzhna-dat-rezultat-za-100-dney.html">Тимошенко: новая коалиция действий должна дать результат за 100 дней</a>
+ <p>Лидер "Батькивщины" Юлия Тимошенко считает, что у президента должна быть "миссия собрать всех в одну команду".</p>
+</div>
+</div>
+<div class="pages last"><a class="prev page-numbers" href="https://telegraf.com.ua/date/2019/6/24/page/5/">&laquo;</a>
+<a class='page-numbers' href='https://telegraf.com.ua/date/2019/6/24/page/1/'>1</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://telegraf.com.ua/date/2019/6/24/page/3/'>3</a>
+<a class='page-numbers' href='https://telegraf.com.ua/date/2019/6/24/page/4/'>4</a>
+<a class='page-numbers' href='https://telegraf.com.ua/date/2019/6/24/page/5/'>5</a>
+<span class='page-numbers current'>6</span></div>
+</div>
+<div class="right_col">
+<div class="main_title">
+<h2>Архив</h2>
+</div>
+<div id="wp-calendar-block">
+<select name="category" size="1">
+<option value="https://telegraf.com.ua/date/2019/6/24/">Все новости</option>
+<option value="https://telegraf.com.ua/allnews/auto/2019/6/24/">Автомобиль</option>
+<option value="https://telegraf.com.ua/allnews/avtosport/2019/6/24/">Автоспорт</option>
+<option value="https://telegraf.com.ua/allnews/aziya/2019/6/24/">Азия</option>
+<option value="https://telegraf.com.ua/allnews/basketbol/2019/6/24/">Баскетбол</option>
+<option value="https://telegraf.com.ua/allnews/biznes/2019/6/24/">Бизнес</option>
+<option value="https://telegraf.com.ua/allnews/blizhniy-vostok/2019/6/24/">Ближний Восток</option>
+<option value="https://telegraf.com.ua/allnews/boks/2019/6/24/">Бокс</option>
+<option value="https://telegraf.com.ua/allnews/mestnyiy/2019/6/24/">В регионах</option>
+<option value="https://telegraf.com.ua/allnews/dom-i-sad/2019/6/24/">Дом и сад</option>
+<option value="https://telegraf.com.ua/allnews/drugie/2019/6/24/">Другие</option>
+<option value="https://telegraf.com.ua/allnews/drugie-vidyi/2019/6/24/">Другие виды спорта</option>
+<option value="https://telegraf.com.ua/allnews/europa/2019/6/24/">Европа</option>
+<option value="https://telegraf.com.ua/allnews/zhenshhinyi/2019/6/24/">Женщины</option>
+<option value="https://telegraf.com.ua/allnews/zhizn/2019/6/24/">Жизнь</option>
+<option value="https://telegraf.com.ua/allnews/zhurnal/2019/6/24/">Журнал</option>
+<option value="https://telegraf.com.ua/allnews/zdorove/2019/6/24/">Здоровье</option>
+<option value="https://telegraf.com.ua/allnews/iskusstvo/2019/6/24/">Искусство</option>
+<option value="https://telegraf.com.ua/allnews/kino/2019/6/24/">Кино</option>
+<option value="https://telegraf.com.ua/allnews/kompanii/2019/6/24/">Компании</option>
+<option value="https://telegraf.com.ua/allnews/kultura/2019/6/24/">Культура</option>
+<option value="https://telegraf.com.ua/allnews/knigi/2019/6/24/">Литература</option>
+<option value="https://telegraf.com.ua/allnews/mir/2019/6/24/">Мир</option>
+<option value="https://telegraf.com.ua/allnews/mama-i-rebenok/2019/6/24/">Мама и ребенок</option>
+<option value="https://telegraf.com.ua/allnews/moda-zhizn/2019/6/24/">Мода</option>
+<option value="https://telegraf.com.ua/allnews/muzyika/2019/6/24/">Музыка</option>
+<option value="https://telegraf.com.ua/allnews/muzhchinyi/2019/6/24/">Мужчины</option>
+<option value="https://telegraf.com.ua/allnews/nauka/2019/6/24/">Наука</option>
+<option value="https://telegraf.com.ua/allnews/nedvizhimost/2019/6/24/">Недвижимость</option>
+<option value="https://telegraf.com.ua/allnews/obshhestvo/2019/6/24/">Общество</option>
+<option value="https://telegraf.com.ua/allnews/politika/2019/6/24/">Политика</option>
+<option value="https://telegraf.com.ua/allnews/puteshestviya/2019/6/24/">Путешествия</option>
+<option value="https://telegraf.com.ua/allnews/rossiya-i-sng/2019/6/24/">Россия и СНГ</option>
+<option value="https://telegraf.com.ua/allnews/sochi-2014/2019/6/24/">Сочи-2014</option>
+<option value="https://telegraf.com.ua/allnews/sport-cat/2019/6/24/">Спорт</option>
+<option value="https://telegraf.com.ua/allnews/usa/2019/6/24/">США</option>
+<option value="https://telegraf.com.ua/allnews/tennis-category/2019/6/24/">Теннис</option>
+<option value="https://telegraf.com.ua/allnews/tehnologii/2019/6/24/">Технологии</option>
+<option value="https://telegraf.com.ua/allnews/ukraina/2019/6/24/">Украина</option>
+<option value="https://telegraf.com.ua/allnews/finansyi/2019/6/24/">Финансы</option>
+<option value="https://telegraf.com.ua/allnews/futbol/2019/6/24/">Футбол</option>
+<option value="https://telegraf.com.ua/allnews/chempionat-mira-football/2019/6/24/">Чемпионат мира по футболу 2014</option>
+<option value="https://telegraf.com.ua/allnews/ekonomika/2019/6/24/">Экономика</option>
+<option value="https://telegraf.com.ua/allnews/ekologiya/2019/6/24/">Экология</option>
+</select>
+<table id="wp-calendar">
+<caption>June 2019</caption>
+<thead>
+<tr>
+<th scope="col" title="Monday">M</th>
+<th scope="col" title="Tuesday">T</th>
+<th scope="col" title="Wednesday">W</th>
+<th scope="col" title="Thursday">T</th>
+<th scope="col" title="Friday">F</th>
+<th scope="col" title="Saturday">S</th>
+<th scope="col" title="Sunday">S</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td colspan="3" id="prev"><a href="https://telegraf.com.ua/date/2019/05/" title="View posts for May 2019">&laquo; May</a></td>
+<td class="pad">&nbsp;</td>
+<td colspan="3" id="next" class="pad">&nbsp;</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td colspan="5" class="pad">&nbsp;</td><td><a href="https://telegraf.com.ua/date/2019/06/01/">1</a></td><td><a href="https://telegraf.com.ua/date/2019/06/02/">2</a></td>
+</tr>
+<tr>
+<td><a href="https://telegraf.com.ua/date/2019/06/03/">3</a></td><td><a href="https://telegraf.com.ua/date/2019/06/04/">4</a></td><td><a href="https://telegraf.com.ua/date/2019/06/05/">5</a></td><td><a href="https://telegraf.com.ua/date/2019/06/06/">6</a></td><td><a href="https://telegraf.com.ua/date/2019/06/07/">7</a></td><td><a href="https://telegraf.com.ua/date/2019/06/08/">8</a></td><td><a href="https://telegraf.com.ua/date/2019/06/09/">9</a></td>
+</tr>
+<tr>
+<td><a href="https://telegraf.com.ua/date/2019/06/10/">10</a></td><td><a href="https://telegraf.com.ua/date/2019/06/11/">11</a></td><td><a href="https://telegraf.com.ua/date/2019/06/12/">12</a></td><td><a href="https://telegraf.com.ua/date/2019/06/13/">13</a></td><td><a href="https://telegraf.com.ua/date/2019/06/14/">14</a></td><td><a href="https://telegraf.com.ua/date/2019/06/15/">15</a></td><td><a href="https://telegraf.com.ua/date/2019/06/16/">16</a></td>
+</tr>
+<tr>
+<td><a href="https://telegraf.com.ua/date/2019/06/17/">17</a></td><td><a href="https://telegraf.com.ua/date/2019/06/18/">18</a></td><td><a href="https://telegraf.com.ua/date/2019/06/19/">19</a></td><td><a href="https://telegraf.com.ua/date/2019/06/20/">20</a></td><td><a href="https://telegraf.com.ua/date/2019/06/21/">21</a></td><td><a href="https://telegraf.com.ua/date/2019/06/22/">22</a></td><td><a href="https://telegraf.com.ua/date/2019/06/23/">23</a></td>
+</tr>
+<tr>
+<td id="today"><a href="https://telegraf.com.ua/date/2019/06/24/">24</a></td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td>
+</tr>
+</tbody>
+</table>
+</div>
+<script type="text/javascript">
+
+$('select[name="category"]').change( function(o) {
+   window.location.href = $(this).val();
+});
+
+</script>
+<div class="shopart">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-7336489842817310" data-ad-slot="1271049623"></ins>
+<script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+</div>
+<div id="ch-o">
+
+<div class="tabs">
+<div class="tb active">Читают</div>
+</div>
+<div class="items">
+<ul class="list active">
+<li><a href="https://telegraf.com.ua/anekdots/5064097-nachnite-svoy-den-s-portsii-otbornogo-yumora-anekdotyi-na-utro-24-iyunya.html">Начните свой день с порции отборного юмора: анекдоты на утро 24 июня</a></li>
+<li><a href="https://telegraf.com.ua/ukraina/obshhestvo/5064155-segodnya-nachalo-petrova-posta-2019-traditsii-i-primetyi.html">Сегодня начало Петрова поста 2019: традиции и приметы</a></li>
+<li><a href="https://telegraf.com.ua/ukraina/obshhestvo/5064193-prognoz-pogodyi-v-ukraine-na-24-iyunya-sohranitsya-zhara-no-mestami-proydut-dozhdi.html">Прогноз погоды в Украине на 24 июня: сохранится жара, но местами пройдут дожди</a></li>
+<li><a href="https://telegraf.com.ua/ukraina/politika/5064095-vyiboryi-v-radu-klyuevu-parasyuku-i-kornatskomu-otkazano-v-registratsii.html">Выборы в Раду: Клюеву, Парасюку и Корнацкому отказано в регистрации</a></li>
+<li><a href="https://telegraf.com.ua/zhizn/zdorove/5064031-kabachki-veskie-prichinyi-polyubit-etot-ovoshh.html">Кабачки: веские причины полюбить этот овощ</a></li>
+</ul>
+</div>
+</div>
+<div id="goroscope">
+<a href="https://telegraf.com.ua/goroskop/" target="_blank">
+<div class="line">
+<span><img alt="Гороскоп знак зодиака Овен" width="47" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor1.png" /><span>&nbsp;&nbsp;&nbsp;Овен</span></span>
+<span><img alt="Гороскоп знак зодиака Телец" width="42" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor2.png" /><span>Телец</span></span>
+<span><img alt="Гороскоп знак зодиака Близнецы" width="60" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor3.png" /><span>&nbsp;&nbsp;Близнецы</span></span>
+<span><img alt="Гороскоп знак зодиака Рак" width="51" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor4.png" /><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Рак</span></span>
+<span><img alt="Гороскоп знак зодиака Лев" width="42" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor5.png" /><span>Лев</span></span>
+<span><img alt="Гороскоп знак зодиака Дева" width="59" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor6.png" /><span>&nbsp;&nbsp;Дева</span></span>
+</div>
+<div class="line line2">
+<span><img alt="Гороскоп знак зодиака Весы" width="44" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor7.png" /><span>Весы</span></span>
+<span><img alt="Гороскоп знак зодиака Скорпион" width="60" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor8.png" /><span>Скорпион</span></span>
+<span><img alt="Гороскоп знак зодиака Стрелец" width="51" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor9.png" /><span>Стрелец</span></span>
+<span><img alt="Гороскоп знак зодиака Козерог" width="49" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor10.png" /><span>Козерог</span></span>
+<span><img alt="Гороскоп знак зодиака Водолей" width="54" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor11.png" /><span>Водолей</span></span>
+<span><img alt="Гороскоп знак зодиака Рыбы" width="43" height="50" src="//telegraf.com.ua/wp-content/themes/news_ru/new_theme/images/single/goroskhop/gor12.png" /><span>Рыбы</span></span>
+</div>
+</a>
+</div>
+<div class="gallery small_num_gal">
+<h3>Последние фотогалереи</h3>
+<div class="screen">
+<div class="scr_item">
+<a href="https://telegraf.com.ua/kurezy/5064361-ne-speshi-otdohni-to-chuvstvo-kogda-ustalost-navalilas-vnezapno.html" class="img">
+<img alt="Фото: Не спеши, отдохни: то чувство, когда усталость навалилась внезапно" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/fullsize-14_110-388x206.jpg" />
+</a>
+<div class="title"><a href="https://telegraf.com.ua/kurezy/5064361-ne-speshi-otdohni-to-chuvstvo-kogda-ustalost-navalilas-vnezapno.html">Не спеши, отдохни: то чувство, когда усталость навалилась внезапно</a></div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/zhizn/moda-zhizn/5064402-manikyur-2019-krutyie-idei-arbuznogo-neyl-arta-foto.html" class="img">
+<img alt="Фото: Маникюр 2019: крутые идеи арбузного нейл-арта (Фото)" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/ddddddd-388x206.jpg" />
+</a>
+<div class="title"><a href="https://telegraf.com.ua/zhizn/moda-zhizn/5064402-manikyur-2019-krutyie-idei-arbuznogo-neyl-arta-foto.html">Маникюр 2019: крутые идеи арбузного нейл-арта (Фото)</a></div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/zhizn/zhenshhinyi/5064381-pohozhie-no-ne-pohozhi-neveroyatnyie-portretyi-bliznyashek-foto.html" class="img">
+<img alt="Фото: &quot;Похожие, но не похожи&quot;: невероятные портреты близняшек (Фото)" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/7-2-800x566_1_1-388x206.jpg" />
+</a>
+<div class="title"><a href="https://telegraf.com.ua/zhizn/zhenshhinyi/5064381-pohozhie-no-ne-pohozhi-neveroyatnyie-portretyi-bliznyashek-foto.html">"Похожие, но не похожи": невероятные портреты близняшек (Фото)</a></div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/puteshestviya/5064228-chastichka-svobodyi-i-tepla-posledniy-dikiy-plyazh-frantsii-foto.html" class="img">
+<img alt="Фото: Частичка свободы и тепла: последний дикий пляж Франции (Фото)" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/Piemanson15_1-388x206.jpg" />
+</a>
+<div class="title"><a href="https://telegraf.com.ua/puteshestviya/5064228-chastichka-svobodyi-i-tepla-posledniy-dikiy-plyazh-frantsii-foto.html">Частичка свободы и тепла: последний дикий пляж Франции (Фото)</a></div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/kurezy/5064270-tam-tolko-samoe-neobhodimoe-bagazh-kotoryiy-sposoben-ne-na-shutku-udivit.html" class="img">
+<img alt="Фото: &quot;Там только самое необходимое&quot;: багаж, который способен не на шутку удивить" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/fullsize_122-388x206.jpg" />
+</a>
+<div class="title"><a href="https://telegraf.com.ua/kurezy/5064270-tam-tolko-samoe-neobhodimoe-bagazh-kotoryiy-sposoben-ne-na-shutku-udivit.html">"Там только самое необходимое": багаж, который способен не на шутку удивить</a></div>
+</div>
+</div>
+<div class="list">
+<a href="https://telegraf.com.ua/kurezy/5064361-ne-speshi-otdohni-to-chuvstvo-kogda-ustalost-navalilas-vnezapno.html" class="list_item">1</a>
+<a href="https://telegraf.com.ua/zhizn/moda-zhizn/5064402-manikyur-2019-krutyie-idei-arbuznogo-neyl-arta-foto.html" class="list_item">2</a>
+<a href="https://telegraf.com.ua/zhizn/zhenshhinyi/5064381-pohozhie-no-ne-pohozhi-neveroyatnyie-portretyi-bliznyashek-foto.html" class="list_item">3</a>
+<a href="https://telegraf.com.ua/puteshestviya/5064228-chastichka-svobodyi-i-tepla-posledniy-dikiy-plyazh-frantsii-foto.html" class="list_item">4</a>
+<a href="https://telegraf.com.ua/kurezy/5064270-tam-tolko-samoe-neobhodimoe-bagazh-kotoryiy-sposoben-ne-na-shutku-udivit.html" class="list_item">5</a>
+</div>
+<div class="shadow"></div>
+</div>
+<div class="gallery video small_num_gal">
+<h3>Видео дня</h3>
+<div class="screen">
+<div class="scr_item">
+<a href="https://telegraf.com.ua/mir/aziya/5064453-na-yuge-kazahstana-gorit-voennyiy-arsenal-zhiteley-evakuiruyut-video.html" class="img"><img alt="Видео: На юге Казахстана горит военный арсенал, жителей эвакуируют (Видео)" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/D9z0OMIWwAAh24M-388x206.jpg" /><div class="video_play"></div></a>
+<div class="title">
+<a href="https://telegraf.com.ua/mir/aziya/5064453-na-yuge-kazahstana-gorit-voennyiy-arsenal-zhiteley-evakuiruyut-video.html">На юге Казахстана горит военный арсенал, жителей эвакуируют (Видео)</a>
+</div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/tehnologii/5063918-remnant-from-the-ashes-treyler-pustyinnogo-mira-rom-video.html" class="img"><img alt="Видео: Remnant: From the Ashes: трейлер пустынного мира Ром (Видео)" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/D9mOCo5WsAAXnyG-388x206.jpg" /><div class="video_play"></div></a>
+<div class="title">
+<a href="https://telegraf.com.ua/tehnologii/5063918-remnant-from-the-ashes-treyler-pustyinnogo-mira-rom-video.html">Remnant: From the Ashes: трейлер пустынного мира Ром (Видео)</a>
+</div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/ukraina/obshhestvo/5063406-lyashko-prishel-v-verhovnuyu-radu-vmeste-s-sobakoy-video.html" class="img"><img alt="Видео: Ляшко пришел в Верховную Раду вместе с собакой (Видео)" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/65144835_2233877883347463_5368356460235325440_n-388x206.jpg" /><div class="video_play"></div></a>
+<div class="title">
+<a href="https://telegraf.com.ua/ukraina/obshhestvo/5063406-lyashko-prishel-v-verhovnuyu-radu-vmeste-s-sobakoy-video.html">Ляшко пришел в Верховную Раду вместе с собакой (Видео)</a>
+</div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/mir/europa/5061764-rossiyskiy-su-24-proletel-vozle-ispanskogo-avianostsa-nad-baltikoy-video.html" class="img"><img alt="Видео: Российский Су-24 пролетел возле испанского авианосца над Балтикой (Видео)" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/su24-388x206.jpg" /><div class="video_play"></div></a>
+<div class="title">
+<a href="https://telegraf.com.ua/mir/europa/5061764-rossiyskiy-su-24-proletel-vozle-ispanskogo-avianostsa-nad-baltikoy-video.html">Российский Су-24 пролетел возле испанского авианосца над Балтикой (Видео)</a>
+</div>
+</div>
+<div class="scr_item">
+<a href="https://telegraf.com.ua/sport-cat/video-sport/video-other-sports/5060809-yarkoe-promo-sbornoy-ukrainyi-po-plyazhnomu-futbolu-pered-evropeyskimi-igrami.html" class="img"><img alt="Видео: Яркое промо сборной Украины по пляжному футболу перед Европейскими играми" width="388" height="206" src="https://telegraf.com.ua/files/2019/06/Snimok-e`krana_2019-06-21_11-55-00.png_-388x206.jpg" /><div class="video_play"></div></a>
+<div class="title">
+<a href="https://telegraf.com.ua/sport-cat/video-sport/video-other-sports/5060809-yarkoe-promo-sbornoy-ukrainyi-po-plyazhnomu-futbolu-pered-evropeyskimi-igrami.html">Яркое промо сборной Украины по пляжному футболу перед Европейскими играми</a>
+</div>
+</div>
+</div>
+<div class="list">
+<a href="https://telegraf.com.ua/mir/aziya/5064453-na-yuge-kazahstana-gorit-voennyiy-arsenal-zhiteley-evakuiruyut-video.html" class="list_item">1</a>
+<a href="https://telegraf.com.ua/tehnologii/5063918-remnant-from-the-ashes-treyler-pustyinnogo-mira-rom-video.html" class="list_item">2</a>
+<a href="https://telegraf.com.ua/ukraina/obshhestvo/5063406-lyashko-prishel-v-verhovnuyu-radu-vmeste-s-sobakoy-video.html" class="list_item">3</a>
+<a href="https://telegraf.com.ua/mir/europa/5061764-rossiyskiy-su-24-proletel-vozle-ispanskogo-avianostsa-nad-baltikoy-video.html" class="list_item">4</a>
+<a href="https://telegraf.com.ua/sport-cat/video-sport/video-other-sports/5060809-yarkoe-promo-sbornoy-ukrainyi-po-plyazhnomu-futbolu-pered-evropeyskimi-igrami.html" class="list_item">5</a>
+</div>
+<div class="shadow"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="main-top-banner">
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-7336489842817310" data-ad-slot="7607733623" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div> 
+<div id="insert-mob-footer"></div>
+<script>
+        $(function(){
+           ch_o();
+
+        });
+    </script>
+<div id="soc_popup"></div>
+<script>
+    function getCookie(name) {
+        var matches = document.cookie.match(new RegExp(
+            "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+        ));
+        return matches ? decodeURIComponent(matches[1]) : undefined;
+    }
+    function setCookie(name, value, options) {
+        options = options || {};
+        var expires = options.expires;
+        if (typeof expires == "number" && expires) {
+            var d = new Date();
+            d.setTime(d.getTime() + expires*1000);
+            expires = options.expires = d;
+        }
+        if (expires && expires.toUTCString) {
+            options.expires = expires.toUTCString();
+        }
+        value = encodeURIComponent(value);
+        var updatedCookie = name + "=" + value;
+        for(var propName in options) {
+            updatedCookie += "; " + propName;
+            var propValue = options[propName];
+            if (propValue !== true) {
+                updatedCookie += "=" + propValue;
+            }
+        }
+        document.cookie = updatedCookie;
+    }
+    function soc_popup(){
+        var soc_wr = jQuery('#soc_popup');
+        var visible_block  = jQuery('#soc_popup .visible_block');
+        var close_btn = jQuery('<div class="close"></div>');
+        visible_block.append(close_btn);
+        close_btn.click(function(){
+            soc_wr.find('.visible_block').css('right','-1000px');
+            var opt = new Object();
+            opt.expires = 86400;
+            opt.path = '/';
+            opt.domain = 'telegraf.com.ua';
+            setCookie('popup_visited', 'true', opt);
+        });
+    }
+
+    jQuery(function(){
+
+        if (screen.width > 1024){
+            var popup_wind = jQuery('#soc_popup');
+            if(getCookie('popup_visited')=="true"){
+                popup_wind.find('.visible_block').css('right','-1000px');
+            }else{
+                popup_wind.load('https://telegraf.com.ua/wp-content/themes/news_ru/ajax/ajax-block-social-popup.php');
+                setTimeout(function(){
+                    popup_wind.find('.visible_block').css('right','0');
+                },6000);
+            }
+
+        }
+    });
+
+
+</script>
+<div id="footer-desk" class="footer-desktop">
+<div class="top">
+<div class="content">
+<div class="tt">
+<div class="footerTitle">
+<p>Телеграф - <span>последние новости Украины и мира</span></p>
+</div>
+<a class="register-link" rel="nofollow" href="https://telegraf.com.ua/user-page" target="_blank">Регистрация</a>
+<div class="soc_links">
+<a class="fb" href="https://www.facebook.com/telegraf.com.ua" target="_blank" rel="nofollow">Телеграф в Facebook</a>
+<a class="tw" href="https://twitter.com/telegrafcomua" target="_blank" rel="nofollow">Телеграф в Twitter</a>
+<a class="gp" href="https://plus.google.com/112249398252252334504" target="_blank" rel="nofollow">Телеграф на Google+</a>
+<a class="rs" href="https://telegraf.com.ua/yandex-feed">Телеграф RSS</a>
+</div>
+</div>
+<ul class="footerList"></ul>
+</div>
+</div>
+<div class="bottom">
+<div class="content">
+<div class="footerDownText">
+Все материалы <strong>Телеграф</strong>, опубликованные на этом сайте с ссылкой <a target="_blank" rel="nofollow" href="http://www.interfax.com.ua/">на агентство "Интерфакс-Украина"</a>, не подлежат дальнейшему воспроизведению и/или распространению в какой-либо форме, не иначе как с письменного разрешения агентства. Перепечатка, копирование или воспроизведение информации, содержащей ссылку на агентство "УНИАН", "Укринформ", "УНН", "Украинские новости", "ИТАР-ТАСС", "Украинская Фото Группа" и "Reuters" в каком-либо виде строго запрещена.
+<br /><br />
+Полное или частичное использование материалов разрешается только при условии наличия прямой, открытой для поисковых систем гиперссылки на прямой адрес материала на сайте <strong>telegraf.com.ua</strong>. Гиперссылка должна содержаться исключительно в первом абзаце текста. Размер шрифта ссылки или <strong>гиперссылки</strong> не должен быть меньше шрифта публикации.
+<br /><br />
+Copyright &copy; 2012-2019, <a href="https://telegraf.com.ua/"><i>Телеграф</i></a>.
+<div class="f-b-menu">
+<a rel="nofollow" href="https://telegraf.com.ua/rules/" class="style_rules">Правила сайта</a>
+<a href="https://telegraf.com.ua/contact/" class="style_rules">Контакты</a>
+<a rel="nofollow" href="https://telegraf.com.ua/reklama/" class="style_rules">Реклама на сайте</a>
+<a rel="nofollow" href="https://telegraf.com.ua/privacypolicy/" class="style_rules">Политика конфиденциальности</a>
+<a rel="nofollow" href="https://telegraf.com.ua/about/" class="style_rules">О проекте Телеграф</a>
+<a class="style_rules" href="https://telegraf.com.ua/sitemap">Карта</a>
+</div>
+</div>
+<div class="liveInt">
+<script><!--
+                    document.write("<a href='http://www.liveinternet.ru/click' "+
+                    "target=_blank><img src='//counter.yadro.ru/hit?t57.5;r"+
+                    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                        screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+                    ";"+Math.random()+
+                    "' alt='' title='LiveInternet' "+
+                    "border='0' width='88' height='31'><\/a>")
+                    //--></script>
+</div>
+<div class="bigmir">
+
+<script type="text/javascript" language="javascript">
+                    bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16916495,s:16916495,t:6,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+                    for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+                    try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+                    else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+                    try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+                    try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+                    r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400).slice(0,400);bm.v^=r.length}
+                    bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+                    bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="https://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+                </script>
+<noscript><img src="https://c.bigmir.net/?v16916495&s16916495&t6" width="0" height="0" alt="" title="" border="0" /></noscript>
+
+
+<script type="text/javascript" language="javascript">
+                    function BM_Draw(oBM_STAT){
+                        document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'https://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'https://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="https://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'https://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>');
+                    }
+                </script>
+<script type="text/javascript" language="javascript" src="https://c.bigmir.net/?s16916495&t0&l1&o1"></script>
+<noscript>
+                    <a href="https://www.bigmir.net/" target="_blank"><img src="https://c.bigmir.net/?v16916495&s16916495&t2&l1" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+                </noscript>
+
+</div>
+<div class="webzilla">
+<a target="_blank" href="https://webzilla.com/" title="Fully Managed Dedicated Servers, Colocation &amp; CDN - Webzilla"><img src="https://telegraf.com.ua/wp-content/themes/news_ru/images/reklama/webzilla_btn.png" alt="webzilla.com" height="37" width="94" /></a>
+</div>
+</div>
+</div>
+</div>
+<script>
+    $('ul.footerList').load(
+        _url+'/ajax/footer-ajax.php'
+    );
+</script>
+<script src="https://telegraf.com.ua/wp-content/themes/news_ru/new_theme/js/ck-karma.js"></script>
+
+<div class="privasypolicy-info privasypolicy-info">
+<span class="skip-privacypolicy privasypolicy-info__button_top_skip">×</span>
+<div class="privacy-text">
+Продолжая просматривать telegraf.com.ua, Вы подтверждаете, что ознакомились с
+<a href="https://telegraf.com.ua/rules/" class="privasypolicy-info__link" target="_blank" rel="noopener">Правилами пользования сайтом</a>, и соглашаетесь c
+<a href="https://telegraf.com.ua/privacypolicy/" class="privasypolicy-info__link" target="_blank" rel="noopener">Политикой конфиденциальности</a>
+</div>
+<div class="close-privacypolicy-wrap">
+<span class="skip-privacypolicy privasypolicy-info__button_skip">Закрыть</span>
+<span class="close-privacypolicy privasypolicy-info__button_close"><span class="privasypolicy-info__icon"></span>Соглашаюсь</span>
+</div>
+</div>
+<script>
+    $(function(){
+        var modalPrivacypolicy = $(".privasypolicy-info"),
+            closePrivacypolicy = $(".close-privacypolicy"),
+            skipPrivacypolicy = $(".skip-privacypolicy");
+
+        if(getCookie('close-privacypolicy')=="1"){
+
+        } else {
+            modalPrivacypolicy.css('display','block');
+        }
+        closePrivacypolicy.on("click",function(){
+            var opt = new Object();
+            opt.expires = 365 * 86400;
+            opt.path = '/';
+            opt.domain = 'telegraf.com.ua';
+            setCookie('close-privacypolicy', '1', opt);
+            modalPrivacypolicy.css('display','none');
+        });
+        skipPrivacypolicy.on("click",function(){
+            modalPrivacypolicy.css('display','none');
+        });
+    })
+</script>
+<style>
+    /*smart banner*/
+    #smartbanner { position:fixed; left:0; bottom: 0px;border-bottom:1px solid #222; width:100%; height:84px; font-family:'Helvetica Neue',sans-serif; background:-webkit-linear-gradient(top, #f4f4f4 0%,#cdcdcd 100%); background-image: -ms-linear-gradient(top, #F4F4F4 0%, #CDCDCD 100%); background-image: -moz-linear-gradient(top, #F4F4F4 0%, #CDCDCD 100%); box-shadow:0 1px 2px rgba(0,0,0,0.5); z-index:9998; -webkit-font-smoothing:antialiased; overflow:hidden; -webkit-text-size-adjust:none; }
+    #smartbanner, html.sb-animation {-webkit-transition: all .3s ease;}
+    #smartbanner .sb-container { margin: 0 auto}
+    #smartbanner .sb-close { position:absolute; left:5px; top:5px; display:block; border:2px solid #fff; width:14px; height:14px; font-family:'ArialRoundedMTBold',Arial; font-size:15px; line-height:15px; text-align:center; color:#fff; background:#070707; text-decoration:none; text-shadow:none; border-radius:14px; box-shadow:0 2px 3px rgba(0,0,0,0.4); -webkit-font-smoothing:subpixel-antialiased; }
+    #smartbanner .sb-close:active { font-size:13px; color:#aaa; }
+    #smartbanner .sb-icon { position:absolute; left:30px; top:10px; display:block; width:57px; height:57px; background:rgba(0,0,0,0.6); background-size:cover; border-radius:10px; box-shadow:0 1px 3px rgba(0,0,0,0.3); }
+    #smartbanner.no-icon .sb-icon { display:none; }
+    #smartbanner .sb-info { position:absolute; left:98px; top:14px; width:44%; font-size:11px; line-height:1.2em; font-weight:bold; color:#6a6a6a; text-shadow:0 1px 0 rgba(255,255,255,0.8); }
+    #smartbanner #smartbanner.no-icon .sb-info { left:34px; }
+    #smartbanner .sb-info strong { display:block; font-size:13px; color:#4d4d4d; line-height: 18px; }
+    #smartbanner .sb-info > span { display:block; }
+    #smartbanner .sb-info em { font-style:normal; text-transform:uppercase; }
+    #smartbanner .sb-button { position:absolute; right:20px; top:20px; border:1px solid #bfbfbf; padding: 0 10px; min-width: 10%; letter-spacing: .04em; height:24px; font-size:14px; line-height:24px; text-align:center; font-weight:bold; color:#6a6a6a; background:-webkit-linear-gradient(top, #efefef 0%,#dcdcdc 100%); text-transform:uppercase; text-decoration:none; text-shadow:0 1px 0 rgba(255,255,255,0.8); border-radius:3px; box-shadow:0 1px 0 rgba(255,255,255,0.6),0 1px 0 rgba(255,255,255,0.7) inset; }
+    #smartbanner .sb-button:active, #smartbanner .sb-button:hover { background:-webkit-linear-gradient(top, #dcdcdc 0%,#efefef 100%); }
+
+    #smartbanner .sb-icon.gloss:after { content:''; position:absolute; left:0; top:-1px; border-top:1px solid rgba(255,255,255,0.8); width:100%; height:50%; background:-webkit-linear-gradient(top, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.2) 100%); border-radius:10px 10px 12px 12px; }
+
+    #smartbanner.android { border-color:#212228; border-top: 3px solid #b3c833; box-shadow: none; }
+    #smartbanner.android .sb-close { border:0; width:17px; height:17px; line-height:17px; color:#b1b1b3; background:#1c1e21; text-shadow:0 1px 1px #000; box-shadow:0 1px 2px rgba(0,0,0,0.8) inset,0 1px 1px rgba(255,255,255,0.3); }
+    #smartbanner.android .sb-close:active { color:#eee; }
+    #smartbanner.android .sb-info {text-shadow:0 1px 2px rgba(255,255,255,0.8); }
+    #smartbanner.android .sb-info strong { color:#000; }
+    #smartbanner.android .sb-button { min-width: 12%; border: none; padding:1px; color:#FFF; background: none; border-radius: 0; box-shadow: none; }
+    #smartbanner.android .sb-button span { text-align: center; display: block; padding: 0 10px; background-color: #b3c833; text-transform:none; text-shadow:none; box-shadow:none; }
+    #smartbanner.android .sb-button:active, #smartbanner.android .sb-button:hover { background: none; }
+    #smartbanner.android .sb-button:active span, #smartbanner.android .sb-button:hover span { background:#C7DD38}
+
+    #smartbanner.windows .sb-icon { border-radius: 0px; }
+</style>
+<script>
+    $(function() {
+
+
+
+        $.smartbanner({
+            title: 'Telegraf.com.ua', // What the title of the app should be in the banner (defaults to <title>)
+            author: 'OOO Телеграф', // What the author of the app should be in the banner (defaults to <meta name="author"> or hostname)
+            price: 'БЕСПЛАТНО', // Price of the app
+            inAppStore: 'App Store', // Text of price for iOS
+            inGooglePlay: 'Google Play', // Text of price for Android
+            button: 'СКАЧАТЬ', // Text on the install button
+            scale: 'auto', // Scale based on viewport size (set to 1 to disable)
+            daysHidden: 1, // Duration to hide the banner after being closed (0 = always show banner)
+            daysReminder: 60 // Duration to hide the banner after "VIEW" is clicked *separate from when the close button is clicked* (0 = always show banner)
+        })
+
+    })
+</script>
+</body>
+</html> �даете, что ознакомились с
+<a href="https://telegraf.com.ua/rules/" class="privasypolicy-info__link" target="_blank" rel="noopener">Правилами пользования сайтом</a>, и соглашаетесь c
+<a href="https://telegraf.com.ua/privacypolicy/" class="privasypolicy-info__link" target="_blank" rel="noopener">Политикой конфиденциальности</a>
+</div>
+<div class="close-privacypolicy-wrap">
+<span class="skip-privacypolicy privasypolicy-info__button_skip">Закрыть</span>
+<span class="close-privacypolicy privasypolicy-info__button_close"><span class="privasypolicy-info__icon"></span>Соглашаюсь</span>
+</div>
+</div>
+<script>
+    $(function(){
+        var modalPrivacypolicy = $(".privasypolicy-info"),
+            closePrivacypolicy = $(".close-privacypolicy"),
+            skipPrivacypolicy = $(".skip-privacypolicy");
+
+        if(getCookie('close-privacypolicy')=="1"){
+
+        } else {
+            modalPrivacypolicy.css('display','block');
+        }
+        closePrivacypolicy.on("click",function(){
+            var opt = new Object();
+            opt.expires = 365 * 86400;
+            opt.path = '/';
+            opt.domain = 'telegraf.com.ua';
+            setCookie('close-privacypolicy', '1', opt);
+            modalPrivacypolicy.css('display','none');
+        });
+        skipPrivacypolicy.on("click",function(){
+            modalPrivacypolicy.css('display','none');
+        });
+    })
+</script>
+<style>
+    /*smart banner*/
+    #smartbanner { position:fixed; left:0; bottom: 0px;border-bottom:1px solid #222; width:100%; height:84px; font-family:'Helvetica Neue',sans-serif; background:-webkit-linear-gradient(top, #f4f4f4 0%,#cdcdcd 100%); background-image: -ms-linear-gradient(top, #F4F4F4 0%, #CDCDCD 100%); background-image: -moz-linear-gradient(top, #F4F4F4 0%, #CDCDCD 100%); box-shadow:0 1px 2px rgba(0,0,0,0.5); z-index:9998; -webkit-font-smoothing:antialiased; overflow:hidden; -webkit-text-size-adjust:none; }
+    #smartbanner, html.sb-animation {-webkit-transition: all .3s ease;}
+    #smartbanner .sb-container { margin: 0 auto}
+    #smartbanner .sb-close { position:absolute; left:5px; top:5px; display:block; border:2px solid #fff; width:14px; height:14px; font-family:'ArialRoundedMTBold',Arial; font-size:15px; line-height:15px; text-align:center; color:#fff; background:#070707; text-decoration:none; text-shadow:none; border-radius:14px; box-shadow:0 2px 3px rgba(0,0,0,0.4); -webkit-font-smoothing:subpixel-antialiased; }
+    #smartbanner .sb-close:active { font-size:13px; color:#aaa; }
+    #smartbanner .sb-icon { position:absolute; left:30px; top:10px; display:block; width:57px; height:57px; background:rgba(0,0,0,0.6); background-size:cover; border-radius:10px; box-shadow:0 1px 3px rgba(0,0,0,0.3); }
+    #smartbanner.no-icon .sb-icon { display:none; }
+    #smartbanner .sb-info { position:absolute; left:98px; top:14px; width:44%; font-size:11px; line-height:1.2em; font-weight:bold; color:#6a6a6a; text-shadow:0 1px 0 rgba(255,255,255,0.8); }
+    #smartbanner #smartbanner.no-icon .sb-info { left:34px; }
+    #smartbanner .sb-info strong { display:block; font-size:13px; color:#4d4d4d; line-height: 18px; }
+    #smartbanner .sb-info > span { display:block; }
+    #smartbanner .sb-info em { font-style:normal; text-transform:uppercase; }
+    #smartbanner .sb-button { position:absolute; right:20px; top:20px; border:1px solid #bfbfbf; padding: 0 10px; min-width: 10%; letter-spacing: .04em; height:24px; font-size:14px; line-height:24px; text-align:center; font-weight:bold; color:#6a6a6a; background:-webkit-linear-gradient(top, #efefef 0%,#dcdcdc 100%); text-transform:uppercase; text-decoration:none; text-shadow:0 1px 0 rgba(255,255,255,0.8); border-radius:3px; box-shadow:0 1px 0 rgba(255,255,255,0.6),0 1px 0 rgba(255,255,255,0.7) inset; }
+    #smartbanner .sb-button:active, #smartbanner .sb-button:hover { background:-webkit-linear-gradient(top, #dcdcdc 0%,#efefef 100%); }
+
+    #smartbanner .sb-icon.gloss:after { content:''; position:absolute; left:0; top:-1px; border-top:1px solid rgba(255,255,255,0.8); width:100%; height:50%; background:-webkit-linear-gradient(top, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.2) 100%); border-radius:10px 10px 12px 12px; }
+
+    #smartbanner.android { border-color:#212228; border-top: 3px solid #b3c833; box-shadow: none; }
+    #smartbanner.android .sb-close { border:0; width:17px; height:17px; line-height:17px; color:#b1b1b3; background:#1c1e21; text-shadow:0 1px 1px #000; box-shadow:0 1px 2px rgba(0,0,0,0.8) inset,0 1px 1px rgba(255,255,255,0.3); }
+    #smartbanner.android .sb-close:active { color:#eee; }
+    #smartbanner.android .sb-info {text-shadow:0 1px 2px rgba(255,255,255,0.8); }
+    #smartbanner.android .sb-info strong { color:#000; }
+    #smartbanner.android .sb-button { min-width: 12%; border: none; padding:1px; color:#FFF; background: none; border-radius: 0; box-shadow: none; }
+    #smartbanner.android .sb-button span { text-align: center; display: block; padding: 0 10px; background-color: #b3c833; text-transform:none; text-shadow:none; box-shadow:none; }
+    #smartbanner.android .sb-button:active, #smartbanner.android .sb-button:hover { background: none; }
+    #smartbanner.android .sb-button:active span, #smartbanner.android .sb-button:hover span { background:#C7DD38}
+
+    #smartbanner.windows .sb-icon { border-radius: 0px; }
+</style>
+<script>
+    $(function() {
+
+
+
+        $.smartbanner({
+            title: 'Telegraf.com.ua', // What the title of the app should be in the banner (defaults to <title>)
+            author: 'OOO Телеграф', // What the author of the app should be in the banner (defaults to <meta name="author"> or hostname)
+            price: 'БЕСПЛАТНО', // Price of the app
+            inAppStore: 'App Store', // Text of price for iOS
+            inGooglePlay: 'Google Play', // Text of price for Android
+            button: 'СКАЧАТЬ', // Text on the install button
+            scale: 'auto', // Scale based on viewport size (set to 1 to disable)
+            daysHidden: 1, // Duration to hide the banner after being closed (0 = always show banner)
+            daysReminder: 60 // Duration to hide the banner after "VIEW" is clicked *separate from when the close button is clicked* (0 = always show banner)
+        })
+
+    })
+</script>
+</body>
+</html> o disable)
+            daysHidden: 1, // Duration to hide the banner after being closed (0 = always show banner)
+            daysReminder: 60 // Duration to hide the banner after "VIEW" is clicked *separate from when the close button is clicked* (0 = always show banner)
+        })
+
+    })
+</script>
+</body>
+</html> e; }
+    #smartbanner.android .sb-button:active span, #smartbanner.android .sb-button:hover span { background:#C7DD38}
+
+    #smartbanner.windows .sb-icon { border-radius: 0px; }
+</style>
+<script>
+    $(function() {
+
+
+
+        $.smartbanner({
+            title: 'Telegraf.com.ua', // What the title of the app should be in the banner (defaults to <title>)
+            author: 'OOO Телеграф', // What the author of the app should be in the banner (defaults to <meta name="author"> or hostname)
+            price: 'БЕСПЛАТНО', // Price of the app
+            inAppStore: 'App Store', // Text of price for iOS
+            inGooglePlay: 'Google Play', // Text of price for Android
+            button: 'СКАЧАТЬ', // Text on the install button
+            scale: 'auto', // Scale based on viewport size (set to 1 to disable)
+            daysHidden: 1, // Duration to hide the banner after being closed (0 = always show banner)
+            daysReminder: 60 // Duration to hide the banner after "VIEW" is clicked *separate from when the close button is clicked* (0 = always show banner)
+        })
+
+    })
+</script>
+</body>
+</html> ody>
+</html> 
